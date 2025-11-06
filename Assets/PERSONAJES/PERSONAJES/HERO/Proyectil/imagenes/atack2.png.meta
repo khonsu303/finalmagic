@@ -1,0 +1,458 @@
+fileFormatVersion: 2
+guid: 923cc5fce6a47d4468dff75c292a6c53
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8708692567012029033
+    second: atack2_0
+  - first:
+      213: 1327080604230695045
+    second: atack2_1
+  - first:
+      213: 8677618051863097967
+    second: atack2_2
+  - first:
+      213: 5564203423303411088
+    second: atack2_3
+  - first:
+      213: 6875303767193412649
+    second: atack2_4
+  - first:
+      213: 8896541860577625239
+    second: atack2_5
+  - first:
+      213: -1649153631154192226
+    second: atack2_6
+  - first:
+      213: -6027171397070057775
+    second: atack2_7
+  - first:
+      213: 8223459567315867332
+    second: atack2_8
+  - first:
+      213: -279660991821921940
+    second: atack2_9
+  - first:
+      213: -5995714055583931049
+    second: atack2_10
+  - first:
+      213: 8519531762762131355
+    second: atack2_11
+  - first:
+      213: -5466192560132900439
+    second: atack2_12
+  - first:
+      213: 5845749779905044609
+    second: atack2_13
+  - first:
+      213: -3922145226665783660
+    second: atack2_14
+  - first:
+      213: -3732923587196945004
+    second: atack2_15
+  - first:
+      213: 8342056988529010306
+    second: atack2_16
+  - first:
+      213: 978794730415130266
+    second: atack2_17
+  - first:
+      213: 7269702318193047742
+    second: atack2_18
+  - first:
+      213: 711685947330452965
+    second: atack2_19
+  - first:
+      213: 1162453567118869853
+    second: atack2_20
+  - first:
+      213: -4774008752085945849
+    second: atack2_21
+  - first:
+      213: -5570756252850467200
+    second: atack2_22
+  - first:
+      213: 7358487395391127299
+    second: atack2_23
+  - first:
+      213: -6044708901088407103
+    second: atack2_24
+  - first:
+      213: -6694032581157652392
+    second: atack2_25
+  - first:
+      213: 7701433202983711003
+    second: atack2_26
+  - first:
+      213: -5619630337239198707
+    second: atack2_27
+  - first:
+      213: 1295066000669469423
+    second: atack2_28
+  - first:
+      213: -8890374609950693823
+    second: atack2_29
+  - first:
+      213: -6167790622548013877
+    second: atack2_30
+  - first:
+      213: -7009851014189173976
+    second: atack2_31
+  - first:
+      213: -7618127012791796360
+    second: atack2_32
+  - first:
+      213: 2867931458591742816
+    second: atack2_33
+  - first:
+      213: 4465601832773268475
+    second: atack2_34
+  - first:
+      213: 2263188048856914816
+    second: atack2_35
+  - first:
+      213: 7895187060606155276
+    second: atack2_36
+  - first:
+      213: -3177015028521482549
+    second: atack2_37
+  - first:
+      213: -3796907411180038541
+    second: atack2_38
+  - first:
+      213: -8373921547037449925
+    second: atack2_39
+  - first:
+      213: 1975296659921857778
+    second: atack2_40
+  - first:
+      213: 5474098469271504708
+    second: atack2_41
+  - first:
+      213: 518671331167732103
+    second: atack2_42
+  - first:
+      213: 9184589994659459004
+    second: atack2_43
+  - first:
+      213: -5935528871904871140
+    second: atack2_44
+  - first:
+      213: 9128572272821404283
+    second: atack2_45
+  - first:
+      213: 5177288127586663126
+    second: atack2_46
+  - first:
+      213: 6286678388684289642
+    second: atack2_47
+  - first:
+      213: -3177157874646968031
+    second: atack2_48
+  - first:
+      213: -5225028798380758064
+    second: atack2_49
+  - first:
+      213: 5753484616610154861
+    second: atack2_50
+  - first:
+      213: 5031693314476868039
+    second: atack2_51
+  - first:
+      213: -2742673008839479600
+    second: atack2_52
+  - first:
+      213: 6690090144278245772
+    second: atack2_53
+  - first:
+      213: 3596731632196718519
+    second: atack2_54
+  - first:
+      213: -6526298373013374421
+    second: atack2_55
+  - first:
+      213: -940199859860929565
+    second: atack2_56
+  - first:
+      213: -4547607153171149023
+    second: atack2_57
+  - first:
+      213: 7392705443218348826
+    second: atack2_58
+  - first:
+      213: 4716631669638772241
+    second: atack2_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: atack2_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 206
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96236d2cfbd7bd870800000000000000
+      internalID: 8708692567012029033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atack2_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 188
+        width: 75
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5883b7347ccba6210800000000000000
+      internalID: 1327080604230695045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atack2_2
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 162
+        width: 135
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6231d564a71d6870800000000000000
+      internalID: 8677618051863097967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: atack2_3
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 143
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09523087885083d40800000000000000
+      internalID: 5564203423303411088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 769b6089e42ef3a49864f5756913dc3c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      atack2_0: 8708692567012029033
+      atack2_1: 1327080604230695045
+      atack2_10: -5995714055583931049
+      atack2_11: 8519531762762131355
+      atack2_12: -5466192560132900439
+      atack2_13: 5845749779905044609
+      atack2_14: -3922145226665783660
+      atack2_15: -3732923587196945004
+      atack2_16: 8342056988529010306
+      atack2_17: 978794730415130266
+      atack2_18: 7269702318193047742
+      atack2_19: 711685947330452965
+      atack2_2: 8677618051863097967
+      atack2_20: 1162453567118869853
+      atack2_21: -4774008752085945849
+      atack2_22: -5570756252850467200
+      atack2_23: 7358487395391127299
+      atack2_24: -6044708901088407103
+      atack2_25: -6694032581157652392
+      atack2_26: 7701433202983711003
+      atack2_27: -5619630337239198707
+      atack2_28: 1295066000669469423
+      atack2_29: -8890374609950693823
+      atack2_3: 5564203423303411088
+      atack2_30: -6167790622548013877
+      atack2_31: -7009851014189173976
+      atack2_32: -7618127012791796360
+      atack2_33: 2867931458591742816
+      atack2_34: 4465601832773268475
+      atack2_35: 2263188048856914816
+      atack2_36: 7895187060606155276
+      atack2_37: -3177015028521482549
+      atack2_38: -3796907411180038541
+      atack2_39: -8373921547037449925
+      atack2_4: 6875303767193412649
+      atack2_40: 1975296659921857778
+      atack2_41: 5474098469271504708
+      atack2_42: 518671331167732103
+      atack2_43: 9184589994659459004
+      atack2_44: -5935528871904871140
+      atack2_45: 9128572272821404283
+      atack2_46: 5177288127586663126
+      atack2_47: 6286678388684289642
+      atack2_48: -3177157874646968031
+      atack2_49: -5225028798380758064
+      atack2_5: 8896541860577625239
+      atack2_50: 5753484616610154861
+      atack2_51: 5031693314476868039
+      atack2_52: -2742673008839479600
+      atack2_53: 6690090144278245772
+      atack2_54: 3596731632196718519
+      atack2_55: -6526298373013374421
+      atack2_56: -940199859860929565
+      atack2_57: -4547607153171149023
+      atack2_58: 7392705443218348826
+      atack2_59: 4716631669638772241
+      atack2_6: -1649153631154192226
+      atack2_7: -6027171397070057775
+      atack2_8: 8223459567315867332
+      atack2_9: -279660991821921940
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

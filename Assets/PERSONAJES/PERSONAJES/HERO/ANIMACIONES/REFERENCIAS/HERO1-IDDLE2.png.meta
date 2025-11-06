@@ -1,0 +1,7930 @@
+fileFormatVersion: 2
+guid: b315a836a0b647d468c8867430e3b255
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8553060692995027027
+    second: HERO1-IDDLE2_0
+  - first:
+      213: -1715266044689642731
+    second: HERO1-IDDLE2_1
+  - first:
+      213: 6519396675059142769
+    second: HERO1-IDDLE2_2
+  - first:
+      213: 4747995784592563145
+    second: HERO1-IDDLE2_3
+  - first:
+      213: -8091577045547193882
+    second: HERO1-IDDLE2_4
+  - first:
+      213: 8391487512448557643
+    second: HERO1-IDDLE2_5
+  - first:
+      213: -3436265265580328774
+    second: HERO1-IDDLE2_6
+  - first:
+      213: 4156045533167218878
+    second: HERO1-IDDLE2_7
+  - first:
+      213: 4019855732189451250
+    second: HERO1-IDDLE2_8
+  - first:
+      213: -4997361611722720838
+    second: HERO1-IDDLE2_9
+  - first:
+      213: 3531321997861557653
+    second: HERO1-IDDLE2_10
+  - first:
+      213: -1166153064485322978
+    second: HERO1-IDDLE2_11
+  - first:
+      213: 9180092775556631726
+    second: HERO1-IDDLE2_12
+  - first:
+      213: 1596539890154982428
+    second: HERO1-IDDLE2_13
+  - first:
+      213: 7867366613960005951
+    second: HERO1-IDDLE2_14
+  - first:
+      213: 6073245784731436055
+    second: HERO1-IDDLE2_15
+  - first:
+      213: -5924266646153723750
+    second: HERO1-IDDLE2_16
+  - first:
+      213: -2201769488365167814
+    second: HERO1-IDDLE2_17
+  - first:
+      213: -855769617166635332
+    second: HERO1-IDDLE2_18
+  - first:
+      213: 2768012989311989980
+    second: HERO1-IDDLE2_19
+  - first:
+      213: -1741480791438237834
+    second: HERO1-IDDLE2_20
+  - first:
+      213: -4041672912599928582
+    second: HERO1-IDDLE2_21
+  - first:
+      213: -6109494728906811093
+    second: HERO1-IDDLE2_22
+  - first:
+      213: -4469737368503622758
+    second: HERO1-IDDLE2_23
+  - first:
+      213: -4862130902770343758
+    second: HERO1-IDDLE2_24
+  - first:
+      213: 744272311940347800
+    second: HERO1-IDDLE2_25
+  - first:
+      213: -2271137437536835603
+    second: HERO1-IDDLE2_26
+  - first:
+      213: 4431000713751815011
+    second: HERO1-IDDLE2_27
+  - first:
+      213: 2957216723070107126
+    second: HERO1-IDDLE2_28
+  - first:
+      213: -7491214737309498011
+    second: HERO1-IDDLE2_29
+  - first:
+      213: 3457718812553690387
+    second: HERO1-IDDLE2_30
+  - first:
+      213: 3925822035157396153
+    second: HERO1-IDDLE2_31
+  - first:
+      213: 1275639437100284325
+    second: HERO1-IDDLE2_32
+  - first:
+      213: -5355584857638055709
+    second: HERO1-IDDLE2_33
+  - first:
+      213: 7521536095506589818
+    second: HERO1-IDDLE2_34
+  - first:
+      213: 7988641303576410550
+    second: HERO1-IDDLE2_35
+  - first:
+      213: 1723427479754157733
+    second: HERO1-IDDLE2_36
+  - first:
+      213: 1516127820695920263
+    second: HERO1-IDDLE2_37
+  - first:
+      213: 6107173144626355397
+    second: HERO1-IDDLE2_38
+  - first:
+      213: 7841644700901430178
+    second: HERO1-IDDLE2_39
+  - first:
+      213: 8572405079693737420
+    second: HERO1-IDDLE2_40
+  - first:
+      213: -2333279714789849264
+    second: HERO1-IDDLE2_41
+  - first:
+      213: 5844511391078648133
+    second: HERO1-IDDLE2_42
+  - first:
+      213: -3435229914042402610
+    second: HERO1-IDDLE2_43
+  - first:
+      213: 9004692502696273050
+    second: HERO1-IDDLE2_44
+  - first:
+      213: 3305690737288535612
+    second: HERO1-IDDLE2_45
+  - first:
+      213: 2556020476320090450
+    second: HERO1-IDDLE2_46
+  - first:
+      213: -7349096768702166940
+    second: HERO1-IDDLE2_47
+  - first:
+      213: 1262409898269002846
+    second: HERO1-IDDLE2_48
+  - first:
+      213: -3237721999922527422
+    second: HERO1-IDDLE2_49
+  - first:
+      213: -2326673202356610052
+    second: HERO1-IDDLE2_50
+  - first:
+      213: -1759959288503164877
+    second: HERO1-IDDLE2_51
+  - first:
+      213: -5209941498982017447
+    second: HERO1-IDDLE2_52
+  - first:
+      213: 3717028253768007113
+    second: HERO1-IDDLE2_53
+  - first:
+      213: 4558868402746141253
+    second: HERO1-IDDLE2_54
+  - first:
+      213: 6784404409634102412
+    second: HERO1-IDDLE2_55
+  - first:
+      213: -2077570782447174014
+    second: HERO1-IDDLE2_56
+  - first:
+      213: 5137232148191360837
+    second: HERO1-IDDLE2_57
+  - first:
+      213: 4858058674644213160
+    second: HERO1-IDDLE2_58
+  - first:
+      213: 8572358167033353563
+    second: HERO1-IDDLE2_59
+  - first:
+      213: 1537028762350667792
+    second: HERO1-IDDLE2_60
+  - first:
+      213: -1112549081329139277
+    second: HERO1-IDDLE2_61
+  - first:
+      213: 6227558524098183465
+    second: HERO1-IDDLE2_62
+  - first:
+      213: -6116546537488482264
+    second: HERO1-IDDLE2_63
+  - first:
+      213: -258889818953649179
+    second: HERO1-IDDLE2_64
+  - first:
+      213: -4867708021714793162
+    second: HERO1-IDDLE2_65
+  - first:
+      213: 6815653342991158736
+    second: HERO1-IDDLE2_66
+  - first:
+      213: 3197436819646445860
+    second: HERO1-IDDLE2_67
+  - first:
+      213: 4527205133779266358
+    second: HERO1-IDDLE2_68
+  - first:
+      213: -3341709531722735647
+    second: HERO1-IDDLE2_69
+  - first:
+      213: 2523685903382452746
+    second: HERO1-IDDLE2_70
+  - first:
+      213: 2030148504387756540
+    second: HERO1-IDDLE2_71
+  - first:
+      213: 6576962235138748907
+    second: HERO1-IDDLE2_72
+  - first:
+      213: 1491731848481350346
+    second: HERO1-IDDLE2_73
+  - first:
+      213: 3949062948035272063
+    second: HERO1-IDDLE2_74
+  - first:
+      213: -5899116838256935407
+    second: HERO1-IDDLE2_75
+  - first:
+      213: 4317236176668613728
+    second: HERO1-IDDLE2_76
+  - first:
+      213: -4435681243306354890
+    second: HERO1-IDDLE2_77
+  - first:
+      213: 839929514724201997
+    second: HERO1-IDDLE2_78
+  - first:
+      213: -7329733667788538626
+    second: HERO1-IDDLE2_79
+  - first:
+      213: -2946290101812961713
+    second: HERO1-IDDLE2_80
+  - first:
+      213: 3957661260326964190
+    second: HERO1-IDDLE2_81
+  - first:
+      213: -5946017238040850727
+    second: HERO1-IDDLE2_82
+  - first:
+      213: 2831874890152386913
+    second: HERO1-IDDLE2_83
+  - first:
+      213: -2554662171944542157
+    second: HERO1-IDDLE2_84
+  - first:
+      213: 8786095951029032641
+    second: HERO1-IDDLE2_85
+  - first:
+      213: 2818784283357781916
+    second: HERO1-IDDLE2_86
+  - first:
+      213: -5160936175826310099
+    second: HERO1-IDDLE2_87
+  - first:
+      213: 1657469721874512634
+    second: HERO1-IDDLE2_88
+  - first:
+      213: -3431732169211591496
+    second: HERO1-IDDLE2_89
+  - first:
+      213: 7908999116198578020
+    second: HERO1-IDDLE2_90
+  - first:
+      213: 5319871630383352482
+    second: HERO1-IDDLE2_91
+  - first:
+      213: 2289236155375502108
+    second: HERO1-IDDLE2_92
+  - first:
+      213: 6317521331817200046
+    second: HERO1-IDDLE2_93
+  - first:
+      213: 9094323187886483874
+    second: HERO1-IDDLE2_94
+  - first:
+      213: 2240542002892062817
+    second: HERO1-IDDLE2_95
+  - first:
+      213: 3648757197977566088
+    second: HERO1-IDDLE2_96
+  - first:
+      213: -7297480733641892172
+    second: HERO1-IDDLE2_97
+  - first:
+      213: -2846314624824524588
+    second: HERO1-IDDLE2_98
+  - first:
+      213: 4925419643683939074
+    second: HERO1-IDDLE2_99
+  - first:
+      213: 2236006451724871108
+    second: HERO1-IDDLE2_100
+  - first:
+      213: 8101737005367666231
+    second: HERO1-IDDLE2_101
+  - first:
+      213: 21750899468226172
+    second: HERO1-IDDLE2_102
+  - first:
+      213: -5583423072742480316
+    second: HERO1-IDDLE2_103
+  - first:
+      213: 6713019026619946067
+    second: HERO1-IDDLE2_104
+  - first:
+      213: 4518123818540881427
+    second: HERO1-IDDLE2_105
+  - first:
+      213: 322006752104596798
+    second: HERO1-IDDLE2_106
+  - first:
+      213: 5428788788270138449
+    second: HERO1-IDDLE2_107
+  - first:
+      213: -3436062979153714385
+    second: HERO1-IDDLE2_108
+  - first:
+      213: -3827081402086236279
+    second: HERO1-IDDLE2_109
+  - first:
+      213: -7502842105476026358
+    second: HERO1-IDDLE2_110
+  - first:
+      213: 4746345958678125294
+    second: HERO1-IDDLE2_111
+  - first:
+      213: 2922786885088519589
+    second: HERO1-IDDLE2_112
+  - first:
+      213: -2088815184054032653
+    second: HERO1-IDDLE2_113
+  - first:
+      213: -8970147927693841680
+    second: HERO1-IDDLE2_114
+  - first:
+      213: 3089408747340721482
+    second: HERO1-IDDLE2_115
+  - first:
+      213: -8445047222332795294
+    second: HERO1-IDDLE2_116
+  - first:
+      213: 5668426539053868007
+    second: HERO1-IDDLE2_117
+  - first:
+      213: 6487440193432679977
+    second: HERO1-IDDLE2_118
+  - first:
+      213: -4887027054402974324
+    second: HERO1-IDDLE2_119
+  - first:
+      213: -2771825770751739823
+    second: HERO1-IDDLE2_120
+  - first:
+      213: -3016362707403385532
+    second: HERO1-IDDLE2_121
+  - first:
+      213: -3672471536704864176
+    second: HERO1-IDDLE2_122
+  - first:
+      213: -2742887843116953065
+    second: HERO1-IDDLE2_123
+  - first:
+      213: -3640376871118047944
+    second: HERO1-IDDLE2_124
+  - first:
+      213: -1406612870646863319
+    second: HERO1-IDDLE2_125
+  - first:
+      213: 5750618820419333632
+    second: HERO1-IDDLE2_126
+  - first:
+      213: 4799115926147417650
+    second: HERO1-IDDLE2_127
+  - first:
+      213: -4984218097899315945
+    second: HERO1-IDDLE2_128
+  - first:
+      213: 5423076987602863635
+    second: HERO1-IDDLE2_129
+  - first:
+      213: 5964726845075480960
+    second: HERO1-IDDLE2_130
+  - first:
+      213: 3484607369931904874
+    second: HERO1-IDDLE2_131
+  - first:
+      213: 2036988058733869772
+    second: HERO1-IDDLE2_132
+  - first:
+      213: -4794134593372437824
+    second: HERO1-IDDLE2_133
+  - first:
+      213: 246533915961503196
+    second: HERO1-IDDLE2_134
+  - first:
+      213: -2855886749496532133
+    second: HERO1-IDDLE2_135
+  - first:
+      213: -5390214642537188726
+    second: HERO1-IDDLE2_136
+  - first:
+      213: 8373645189542017434
+    second: HERO1-IDDLE2_137
+  - first:
+      213: 6257276552265299043
+    second: HERO1-IDDLE2_138
+  - first:
+      213: 6051444416405734690
+    second: HERO1-IDDLE2_139
+  - first:
+      213: -130192339329991972
+    second: HERO1-IDDLE2_140
+  - first:
+      213: -3285114316522045360
+    second: HERO1-IDDLE2_141
+  - first:
+      213: 1092340281879472373
+    second: HERO1-IDDLE2_142
+  - first:
+      213: -50591610570830376
+    second: HERO1-IDDLE2_143
+  - first:
+      213: 6495011800526273364
+    second: HERO1-IDDLE2_144
+  - first:
+      213: -466741522854314528
+    second: HERO1-IDDLE2_145
+  - first:
+      213: 8827442959414508984
+    second: HERO1-IDDLE2_146
+  - first:
+      213: -6081613159424368259
+    second: HERO1-IDDLE2_147
+  - first:
+      213: -428122483783028948
+    second: HERO1-IDDLE2_148
+  - first:
+      213: -6547487504871457378
+    second: HERO1-IDDLE2_149
+  - first:
+      213: 2916839138246994081
+    second: HERO1-IDDLE2_150
+  - first:
+      213: -8531517867712226300
+    second: HERO1-IDDLE2_151
+  - first:
+      213: -2176711827461313332
+    second: HERO1-IDDLE2_152
+  - first:
+      213: 291869204933779289
+    second: HERO1-IDDLE2_153
+  - first:
+      213: 2170589870760282481
+    second: HERO1-IDDLE2_154
+  - first:
+      213: 6448133455530984469
+    second: HERO1-IDDLE2_155
+  - first:
+      213: 8053475367731757835
+    second: HERO1-IDDLE2_156
+  - first:
+      213: -7786738628812855070
+    second: HERO1-IDDLE2_157
+  - first:
+      213: 6081352312367344308
+    second: HERO1-IDDLE2_158
+  - first:
+      213: -6705027254630280308
+    second: HERO1-IDDLE2_159
+  - first:
+      213: 1756955909431580950
+    second: HERO1-IDDLE2_160
+  - first:
+      213: -5470014153534147163
+    second: HERO1-IDDLE2_161
+  - first:
+      213: -1867214573844034317
+    second: HERO1-IDDLE2_162
+  - first:
+      213: -8464754503921194179
+    second: HERO1-IDDLE2_163
+  - first:
+      213: 2528179548160889513
+    second: HERO1-IDDLE2_164
+  - first:
+      213: 1602445226249049392
+    second: HERO1-IDDLE2_165
+  - first:
+      213: -1074430402982269561
+    second: HERO1-IDDLE2_166
+  - first:
+      213: 820310463235419601
+    second: HERO1-IDDLE2_167
+  - first:
+      213: 4106067701730059266
+    second: HERO1-IDDLE2_168
+  - first:
+      213: -4533812123166633899
+    second: HERO1-IDDLE2_169
+  - first:
+      213: 4721033464934982548
+    second: HERO1-IDDLE2_170
+  - first:
+      213: -4026104802634423707
+    second: HERO1-IDDLE2_171
+  - first:
+      213: 5507404782181679182
+    second: HERO1-IDDLE2_172
+  - first:
+      213: 5837339609280747361
+    second: HERO1-IDDLE2_173
+  - first:
+      213: -7574920218532075021
+    second: HERO1-IDDLE2_174
+  - first:
+      213: -555687059237646700
+    second: HERO1-IDDLE2_175
+  - first:
+      213: -3131442992267769392
+    second: HERO1-IDDLE2_176
+  - first:
+      213: 2199454894423672566
+    second: HERO1-IDDLE2_177
+  - first:
+      213: 5315092321130521793
+    second: HERO1-IDDLE2_178
+  - first:
+      213: -487718435477277900
+    second: HERO1-IDDLE2_179
+  - first:
+      213: -3593949019988061768
+    second: HERO1-IDDLE2_180
+  - first:
+      213: -1644243398632629068
+    second: HERO1-IDDLE2_181
+  - first:
+      213: -3176428489190722557
+    second: HERO1-IDDLE2_182
+  - first:
+      213: -2981267306644159652
+    second: HERO1-IDDLE2_183
+  - first:
+      213: 4087018639876084681
+    second: HERO1-IDDLE2_184
+  - first:
+      213: 4209683078489761056
+    second: HERO1-IDDLE2_185
+  - first:
+      213: 7441890503880332397
+    second: HERO1-IDDLE2_186
+  - first:
+      213: 4214290280074962747
+    second: HERO1-IDDLE2_187
+  - first:
+      213: -7055520984207330711
+    second: HERO1-IDDLE2_188
+  - first:
+      213: -6225736404377825471
+    second: HERO1-IDDLE2_189
+  - first:
+      213: -7743737689154779100
+    second: HERO1-IDDLE2_190
+  - first:
+      213: 6165698972319302250
+    second: HERO1-IDDLE2_191
+  - first:
+      213: -6365860636699191746
+    second: HERO1-IDDLE2_192
+  - first:
+      213: 5687856620072969626
+    second: HERO1-IDDLE2_193
+  - first:
+      213: -5569337252153257169
+    second: HERO1-IDDLE2_194
+  - first:
+      213: -7478371969053128827
+    second: HERO1-IDDLE2_195
+  - first:
+      213: 45095381223112345
+    second: HERO1-IDDLE2_196
+  - first:
+      213: -8466657620480651172
+    second: HERO1-IDDLE2_197
+  - first:
+      213: 7069311484199070349
+    second: HERO1-IDDLE2_198
+  - first:
+      213: 5562475419769160377
+    second: HERO1-IDDLE2_199
+  - first:
+      213: 7811891094000750753
+    second: HERO1-IDDLE2_200
+  - first:
+      213: 6934705120679228019
+    second: HERO1-IDDLE2_201
+  - first:
+      213: -642315348968056239
+    second: HERO1-IDDLE2_202
+  - first:
+      213: -816369846304402756
+    second: HERO1-IDDLE2_203
+  - first:
+      213: 2656803553491972760
+    second: HERO1-IDDLE2_204
+  - first:
+      213: 6121302148636883956
+    second: HERO1-IDDLE2_205
+  - first:
+      213: -5378887590078793871
+    second: HERO1-IDDLE2_206
+  - first:
+      213: -7663729380992943340
+    second: HERO1-IDDLE2_207
+  - first:
+      213: 1079189932237540821
+    second: HERO1-IDDLE2_208
+  - first:
+      213: 2900987777214435095
+    second: HERO1-IDDLE2_209
+  - first:
+      213: 3453820077735442432
+    second: HERO1-IDDLE2_210
+  - first:
+      213: 609743398432709998
+    second: HERO1-IDDLE2_211
+  - first:
+      213: -2169832992214716433
+    second: HERO1-IDDLE2_212
+  - first:
+      213: -7526558970949735801
+    second: HERO1-IDDLE2_213
+  - first:
+      213: -2334836852236757954
+    second: HERO1-IDDLE2_214
+  - first:
+      213: 8573843710587601511
+    second: HERO1-IDDLE2_215
+  - first:
+      213: -17361465428348992
+    second: HERO1-IDDLE2_216
+  - first:
+      213: -5867112917631156679
+    second: HERO1-IDDLE2_217
+  - first:
+      213: 1380346450832514682
+    second: HERO1-IDDLE2_218
+  - first:
+      213: 5226838243873329369
+    second: HERO1-IDDLE2_219
+  - first:
+      213: 8217903125494037145
+    second: HERO1-IDDLE2_220
+  - first:
+      213: -193441793281739981
+    second: HERO1-IDDLE2_221
+  - first:
+      213: 1339571447597135051
+    second: HERO1-IDDLE2_222
+  - first:
+      213: -8395829931411359050
+    second: HERO1-IDDLE2_223
+  - first:
+      213: -300478564813860923
+    second: HERO1-IDDLE2_224
+  - first:
+      213: -9139121640625437074
+    second: HERO1-IDDLE2_225
+  - first:
+      213: 6880269953590386545
+    second: HERO1-IDDLE2_226
+  - first:
+      213: 2755951156486194778
+    second: HERO1-IDDLE2_227
+  - first:
+      213: -3697670019923901537
+    second: HERO1-IDDLE2_228
+  - first:
+      213: 6886086490373654054
+    second: HERO1-IDDLE2_229
+  - first:
+      213: -1904627401283827705
+    second: HERO1-IDDLE2_230
+  - first:
+      213: 6561577188076913727
+    second: HERO1-IDDLE2_231
+  - first:
+      213: 490575873936267005
+    second: HERO1-IDDLE2_232
+  - first:
+      213: 2946957024558293553
+    second: HERO1-IDDLE2_233
+  - first:
+      213: -8663477148618985491
+    second: HERO1-IDDLE2_234
+  - first:
+      213: -1393855935399500331
+    second: HERO1-IDDLE2_235
+  - first:
+      213: 8772405546593766432
+    second: HERO1-IDDLE2_236
+  - first:
+      213: -2493680984597792557
+    second: HERO1-IDDLE2_237
+  - first:
+      213: 5966002091753329776
+    second: HERO1-IDDLE2_238
+  - first:
+      213: -6553061786273011739
+    second: HERO1-IDDLE2_239
+  - first:
+      213: -8867276011723247124
+    second: HERO1-IDDLE2_240
+  - first:
+      213: 7313040039123570618
+    second: HERO1-IDDLE2_241
+  - first:
+      213: 3977962028141657766
+    second: HERO1-IDDLE2_242
+  - first:
+      213: 7724715535025269817
+    second: HERO1-IDDLE2_243
+  - first:
+      213: 5143133703476610702
+    second: HERO1-IDDLE2_244
+  - first:
+      213: 7851670666947744376
+    second: HERO1-IDDLE2_245
+  - first:
+      213: 943226815295629680
+    second: HERO1-IDDLE2_246
+  - first:
+      213: 1126515868031881363
+    second: HERO1-IDDLE2_247
+  - first:
+      213: -2155343851954631479
+    second: HERO1-IDDLE2_248
+  - first:
+      213: -4313210055369390884
+    second: HERO1-IDDLE2_249
+  - first:
+      213: -8156473829353121438
+    second: HERO1-IDDLE2_250
+  - first:
+      213: -6837716699746529994
+    second: HERO1-IDDLE2_251
+  - first:
+      213: -3201599243744288594
+    second: HERO1-IDDLE2_252
+  - first:
+      213: -7079750396735051136
+    second: HERO1-IDDLE2_253
+  - first:
+      213: 8763821696361740136
+    second: HERO1-IDDLE2_254
+  - first:
+      213: -496987107202597758
+    second: HERO1-IDDLE2_255
+  - first:
+      213: -3377011861201294577
+    second: HERO1-IDDLE2_256
+  - first:
+      213: 5366105496585933806
+    second: HERO1-IDDLE2_257
+  - first:
+      213: -145579513500947745
+    second: HERO1-IDDLE2_258
+  - first:
+      213: 3598688597799690967
+    second: HERO1-IDDLE2_259
+  - first:
+      213: 3297394079966560660
+    second: HERO1-IDDLE2_260
+  - first:
+      213: -4978496137114649470
+    second: HERO1-IDDLE2_261
+  - first:
+      213: 2450558158144717551
+    second: HERO1-IDDLE2_262
+  - first:
+      213: -3665861661178661607
+    second: HERO1-IDDLE2_263
+  - first:
+      213: -6163305243537475667
+    second: HERO1-IDDLE2_264
+  - first:
+      213: 3672142327109675611
+    second: HERO1-IDDLE2_265
+  - first:
+      213: -5134409674137817809
+    second: HERO1-IDDLE2_266
+  - first:
+      213: -7328507060963666709
+    second: HERO1-IDDLE2_267
+  - first:
+      213: -15083464499652241
+    second: HERO1-IDDLE2_268
+  - first:
+      213: -562193995150861295
+    second: HERO1-IDDLE2_269
+  - first:
+      213: 4525422795250215662
+    second: HERO1-IDDLE2_270
+  - first:
+      213: -8153015967101329730
+    second: HERO1-IDDLE2_271
+  - first:
+      213: -682165985502899458
+    second: HERO1-IDDLE2_272
+  - first:
+      213: -8717951004271364207
+    second: HERO1-IDDLE2_273
+  - first:
+      213: 5005316733550535752
+    second: HERO1-IDDLE2_274
+  - first:
+      213: -6749842602808039580
+    second: HERO1-IDDLE2_275
+  - first:
+      213: -4930105429773794718
+    second: HERO1-IDDLE2_276
+  - first:
+      213: -5526445696614333956
+    second: HERO1-IDDLE2_277
+  - first:
+      213: -2238223229124217279
+    second: HERO1-IDDLE2_278
+  - first:
+      213: -1084070990577338947
+    second: HERO1-IDDLE2_279
+  - first:
+      213: 6599144406783708687
+    second: HERO1-IDDLE2_280
+  - first:
+      213: -1248929713542098180
+    second: HERO1-IDDLE2_281
+  - first:
+      213: 5705211043912530685
+    second: HERO1-IDDLE2_282
+  - first:
+      213: -82026414464366384
+    second: HERO1-IDDLE2_283
+  - first:
+      213: 7757388320270844409
+    second: HERO1-IDDLE2_284
+  - first:
+      213: 8333187089935266160
+    second: HERO1-IDDLE2_285
+  - first:
+      213: 6893522775187333170
+    second: HERO1-IDDLE2_286
+  - first:
+      213: 3848195640111129744
+    second: HERO1-IDDLE2_287
+  - first:
+      213: -7938181770356265794
+    second: HERO1-IDDLE2_288
+  - first:
+      213: -3245812935441952799
+    second: HERO1-IDDLE2_289
+  - first:
+      213: -704378907420241111
+    second: HERO1-IDDLE2_290
+  - first:
+      213: 966212924225149095
+    second: HERO1-IDDLE2_291
+  - first:
+      213: -360300561545328542
+    second: HERO1-IDDLE2_292
+  - first:
+      213: 4557435810570141330
+    second: HERO1-IDDLE2_293
+  - first:
+      213: 3907885554342820390
+    second: HERO1-IDDLE2_294
+  - first:
+      213: 7566479158847527783
+    second: HERO1-IDDLE2_295
+  - first:
+      213: 5820411621377927887
+    second: HERO1-IDDLE2_296
+  - first:
+      213: 4178683887626896004
+    second: HERO1-IDDLE2_297
+  - first:
+      213: 7366018874281144424
+    second: HERO1-IDDLE2_298
+  - first:
+      213: -5150912222066891816
+    second: HERO1-IDDLE2_299
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_0
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 821
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dafcca3ad9c6d4980800000000000000
+      internalID: -8553060692995027027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_1
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 831
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b0cf6ce962238e0800000000000000
+      internalID: -1715266044689642731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 817
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17053c61cbc897a50800000000000000
+      internalID: 6519396675059142769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_3
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 822
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb11b7920544e140800000000000000
+      internalID: 4747995784592563145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 818
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9647f4c81f4bf80800000000000000
+      internalID: -8091577045547193882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_5
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 811
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b426f9cbe6d847470800000000000000
+      internalID: 8391487512448557643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_6
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 829
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab8321372feef40d0800000000000000
+      internalID: -3436265265580328774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_7
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 822
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0f7ca846d3da930800000000000000
+      internalID: 4156045533167218878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_8
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 829
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f358758d7569c730800000000000000
+      internalID: 4019855732189451250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_9
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 818
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9f71f571ec5aab0800000000000000
+      internalID: -4997361611722720838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 811
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5959f06b5a6c10130800000000000000
+      internalID: 3531321997861557653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_11
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 831
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f7e9567fdf0dfe0800000000000000
+      internalID: -1166153064485322978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_12
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 822
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eacce2cbdbd366f70800000000000000
+      internalID: 9180092775556631726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_13
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 819
+        width: 14
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1ccd6e329c082610800000000000000
+      internalID: 1596539890154982428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 800
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f399ad690408e2d60800000000000000
+      internalID: 7867366613960005951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_15
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 827
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7144e802dd0884450800000000000000
+      internalID: 6073245784731436055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_16
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 821
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9000599fd6c8cda0800000000000000
+      internalID: -5924266646153723750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 817
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3b53b8d05eb171e0800000000000000
+      internalID: -2201769488365167814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_18
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 821
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbee5373112bf14f0800000000000000
+      internalID: -855769617166635332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_19
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 816
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8bb91f525f96620800000000000000
+      internalID: 2768012989311989980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 796
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f582b627405d7e0800000000000000
+      internalID: -1741480791438237834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_21
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 809
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0b92256e719e7c0800000000000000
+      internalID: -4041672912599928582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_22
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 809
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29536ed9e6b63ba0800000000000000
+      internalID: -6109494728906811093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_23
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 776
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a936d078b8d48f1c0800000000000000
+      internalID: -4469737368503622758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_24
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 784
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0ace064bd368cb0800000000000000
+      internalID: -4862130902770343758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_25
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 811
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897fc5179bf245a00800000000000000
+      internalID: 744272311940347800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 793
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7a687988c4b70e0800000000000000
+      internalID: -2271137437536835603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_27
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 812
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 363eda63ca31e7d30800000000000000
+      internalID: 4431000713751815011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_28
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 805
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd307e01f42a0920800000000000000
+      internalID: 2957216723070107126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_29
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 798
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5650f76f2ebd90890800000000000000
+      internalID: -7491214737309498011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_30
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 811
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31db273b0f84cff20800000000000000
+      internalID: 3457718812553690387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_31
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 783
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba25f057525b7630800000000000000
+      internalID: 3925822035157396153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_32
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 775
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a977d53f4bf3b110800000000000000
+      internalID: 1275639437100284325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_33
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 811
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0d50472f32da5b0800000000000000
+      internalID: -5355584857638055709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_34
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 799
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a78e2f16a3dd16860800000000000000
+      internalID: 7521536095506589818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_35
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 773
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b97fa1a0fa5dde60800000000000000
+      internalID: 7988641303576410550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 742
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aea4e66928dae710800000000000000
+      internalID: 1723427479754157733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_37
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 771
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78edaaa583e5a0510800000000000000
+      internalID: 1516127820695920263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_38
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 767
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc524b2e9901c450800000000000000
+      internalID: 6107173144626355397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_39
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 742
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3dd040f4e13dc60800000000000000
+      internalID: 7841644700901430178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_40
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 755
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd36ed500d47f670800000000000000
+      internalID: 8572405079693737420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_41
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 761
+        width: 12
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 057835e26768e9fd0800000000000000
+      internalID: -2333279714789849264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 742
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54987f60520eb1150800000000000000
+      internalID: 5844511391078648133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_43
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 742
+        width: 42
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8f4b3089c9350d0800000000000000
+      internalID: -3435229914042402610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_44
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 776
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a94a5de4f1817fc70800000000000000
+      internalID: 9004692502696273050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_45
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 767
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ed165163c20ed20800000000000000
+      internalID: 3305690737288535612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_46
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 777
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2590fa1b41fc87320800000000000000
+      internalID: 2556020476320090450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_47
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 742
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46849811d63c20a90800000000000000
+      internalID: -7349096768702166940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_48
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 742
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cc24b2d1bf48110800000000000000
+      internalID: 1262409898269002846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_49
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 783
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2438629cefc4113d0800000000000000
+      internalID: -3237721999922527422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_50
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 767
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb1d19bc0ff5bfd0800000000000000
+      internalID: -2326673202356610052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_51
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 777
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 330ae9d0a5e5397e0800000000000000
+      internalID: -1759959288503164877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_52
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 786
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9565c946fc192b7b0800000000000000
+      internalID: -5209941498982017447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_53
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 742
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cdbeedc089859330800000000000000
+      internalID: 3717028253768007113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_54
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 742
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54aaf6b88aa544f30800000000000000
+      internalID: 4558868402746141253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_55
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 777
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c95d08ddb072e50800000000000000
+      internalID: 6784404409634102412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_56
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 778
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28e718c716cfa23e0800000000000000
+      internalID: -2077570782447174014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_57
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 742
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547b9a9ab6d1b4740800000000000000
+      internalID: 5137232148191360837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_58
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 742
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad5c2020aa4b6340800000000000000
+      internalID: 4858058674644213160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_59
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 749
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b551179a55227f670800000000000000
+      internalID: 8572358167033353563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_60
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 742
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018487d048f945510800000000000000
+      internalID: 1537028762350667792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_61
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 742
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1803c418e6f80f0800000000000000
+      internalID: -1112549081329139277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_62
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 776
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92104de8b7bbc6650800000000000000
+      internalID: 6227558524098183465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_63
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 749
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8208adcb459ad1ba0800000000000000
+      internalID: -6116546537488482264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_64
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 581
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e37d41d41d386cf0800000000000000
+      internalID: -258889818953649179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_65
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 581
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63dce5f285d627cb0800000000000000
+      internalID: -4867708021714793162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_66
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 591
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd0135ca90169e50800000000000000
+      internalID: 6815653342991158736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_67
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 581
+        width: 9
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429f7c2c8d39f5c20800000000000000
+      internalID: 3197436819646445860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_68
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 581
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63bec30451dd3de30800000000000000
+      internalID: 4527205133779266358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_69
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 580
+        width: 42
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef1123d2ecdf91d0800000000000000
+      internalID: -3341709531722735647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_70
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 581
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a95c345fee50320800000000000000
+      internalID: 2523685903382452746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_71
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 581
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1a25dfe498c2c10800000000000000
+      internalID: 2030148504387756540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_72
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 581
+        width: 48
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1ba9e7e40164b50800000000000000
+      internalID: 6576962235138748907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_73
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 581
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac22ed07632b3b410800000000000000
+      internalID: 1491731848481350346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_74
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 581
+        width: 47
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d9c4504d3edc630800000000000000
+      internalID: 3949062948035272063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_75
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 581
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11e7b2f8d70222ea0800000000000000
+      internalID: -5899116838256935407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_76
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 581
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c5cc1dd67e9eb30800000000000000
+      internalID: 4317236176668613728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_77
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 581
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6379cd3196b4172c0800000000000000
+      internalID: -4435681243306354890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_78
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 497
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d069089817708ab00800000000000000
+      internalID: 839929514724201997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_79
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 484
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc3e31501e874a90800000000000000
+      internalID: -7329733667788538626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_80
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 487
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e503433ccac17d0800000000000000
+      internalID: -2946290101812961713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_81
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 497
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edb0d1b92ff6ce630800000000000000
+      internalID: 3957661260326964190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_82
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 486
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dec93a43d08b7da0800000000000000
+      internalID: -5946017238040850727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_83
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 495
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161a1eb6537dc4720800000000000000
+      internalID: 2831874890152386913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_84
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 483
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3302e103a440c8cd0800000000000000
+      internalID: -2554662171944542157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_85
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 499
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6559b77bb7ee970800000000000000
+      internalID: 8786095951029032641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_86
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 484
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f9ef30f555e1720800000000000000
+      internalID: 2818784283357781916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_87
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 501
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ce86354eba068b0800000000000000
+      internalID: -5160936175826310099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_88
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 486
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afabb4e2ee3800710800000000000000
+      internalID: 1657469721874512634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_89
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 499
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4ccd136c90060d0800000000000000
+      internalID: -3431732169211591496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_90
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 484
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46705e1eac862cd60800000000000000
+      internalID: 7908999116198578020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_91
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 495
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa8dabdf0bf3d940800000000000000
+      internalID: 5319871630383352482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_92
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 484
+        width: 9
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c134328872005cf10800000000000000
+      internalID: 2289236155375502108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_93
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 464
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea9baebfd285ca750800000000000000
+      internalID: 6317521331817200046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_94
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 489
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9629e61c6853e70800000000000000
+      internalID: 9094323187886483874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_95
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 485
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16049baa411081f10800000000000000
+      internalID: 2240542002892062817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_96
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 472
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88b3a11f65df2a230800000000000000
+      internalID: 3648757197977566088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_97
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 489
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be940cbfe32aba90800000000000000
+      internalID: -7297480733641892172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_98
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 454
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0c55cddebdf78d0800000000000000
+      internalID: -2846314624824524588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_99
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 468
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2032387e11b9a5440800000000000000
+      internalID: 4925419643683939074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_100
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 477
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5ea8e5504e70f10800000000000000
+      internalID: 2236006451724871108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_101
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 455
+        width: 10
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 736a39ca1e62f6070800000000000000
+      internalID: 8101737005367666231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_102
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 471
+        width: 13
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e495ce3564d4000800000000000000
+      internalID: 21750899468226172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_103
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 467
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446e67e2c42b382b0800000000000000
+      internalID: -5583423072742480316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_104
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 464
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354de14dc3f692d50800000000000000
+      internalID: 6713019026619946067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_105
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 470
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3165c57cca993be30800000000000000
+      internalID: 4518123818540881427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_106
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 466
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35c87a5f6ff77400800000000000000
+      internalID: 322006752104596798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_107
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 465
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1540775d3aee65b40800000000000000
+      internalID: 5428788788270138449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_108
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 411
+        width: 25
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f232cadece6a050d0800000000000000
+      internalID: -3436062979153714385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_109
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 411
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f5526ddb973eac0800000000000000
+      internalID: -3827081402086236279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_110
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 467
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00f1495bdc80e790800000000000000
+      internalID: -7502842105476026358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_111
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 465
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeade1090886ed140800000000000000
+      internalID: 4746345958678125294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_112
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 455
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a52fd7bf23df8820800000000000000
+      internalID: 2922786885088519589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_113
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 437
+        width: 8
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6640938a90303e0800000000000000
+      internalID: -2088815184054032653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_114
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 455
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fa2a135cf1a38380800000000000000
+      internalID: -8970147927693841680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_115
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 455
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d6a3723e8cfda20800000000000000
+      internalID: 3089408747340721482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_116
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 439
+        width: 6
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26654798b4a2dca80800000000000000
+      internalID: -8445047222332795294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_117
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 411
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3e3b797eb4aae40800000000000000
+      internalID: 5668426539053868007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_118
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 435
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9267527eb74080a50800000000000000
+      internalID: 6487440193432679977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_119
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 451
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d469e59cacd2cb0800000000000000
+      internalID: -4887027054402974324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_120
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 411
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158b113b52f7889d0800000000000000
+      internalID: -2771825770751739823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_121
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 452
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4455c77591ab326d0800000000000000
+      internalID: -3016362707403385532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_122
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 411
+        width: 29
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05049fe4892c80dc0800000000000000
+      internalID: -3672471536704864176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_123
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 418
+        width: 9
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712d6440a0e4fe9d0800000000000000
+      internalID: -2742887843116953065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_124
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 419
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835f574f588ca7dc0800000000000000
+      internalID: -3640376871118047944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_125
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 411
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ae994fb05ba7ce0800000000000000
+      internalID: -1406612870646863319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_126
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 439
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00e25cd595d4ecf40800000000000000
+      internalID: 5750618820419333632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_127
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 439
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236cfed0282e99240800000000000000
+      internalID: 4799115926147417650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_128
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 411
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d53a72c0084dab0800000000000000
+      internalID: -4984218097899315945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_129
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 425
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3160aab99c3a24b40800000000000000
+      internalID: 5423076987602863635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_130
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 411
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081e5fe8677f6c250800000000000000
+      internalID: 5964726845075480960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_131
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 411
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67df72d0ffcb5030800000000000000
+      internalID: 3484607369931904874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_132
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 429
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca7b84d8d5d44c10800000000000000
+      internalID: 2036988058733869772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_133
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 417
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2cf9cdcffc77db0800000000000000
+      internalID: -4794134593372437824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_134
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 414
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdda8f55a4ddb6300800000000000000
+      internalID: 246533915961503196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_135
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 411
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53a389e12add58d0800000000000000
+      internalID: -2855886749496532133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_136
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 417
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a823678575c1235b0800000000000000
+      internalID: -5390214642537188726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_137
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 423
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a997fc53fe9253470800000000000000
+      internalID: 8373645189542017434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_138
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 411
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364772f2fdf46d650800000000000000
+      internalID: 6257276552265299043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_139
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 411
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22582e182ac0bf350800000000000000
+      internalID: 6051444416405734690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_140
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 417
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda32c5d1c6713ef0800000000000000
+      internalID: -130192339329991972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_141
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 417
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05047253fede862d0800000000000000
+      internalID: -3285114316522045360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_142
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 413
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8a64be2b5c82f00800000000000000
+      internalID: 1092340281879472373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_143
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 423
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd8f4fb2334c4ff0800000000000000
+      internalID: -50591610570830376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_144
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 417
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bb65e02dae22a50800000000000000
+      internalID: 6495011800526273364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_145
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 411
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edf750de0dc589f0800000000000000
+      internalID: -466741522854314528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_146
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 411
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bdbcee0a90618a70800000000000000
+      internalID: 8827442959414508984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_147
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 411
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d716b23ad05c99ba0800000000000000
+      internalID: -6081613159424368259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_148
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 411
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f21c98ed00f0af0800000000000000
+      internalID: -428122483783028948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_149
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 411
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9df3dcedc6a225a0800000000000000
+      internalID: -6547487504871457378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_150
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 413
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a82b2efdb1ba7820800000000000000
+      internalID: 2916839138246994081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_151
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 411
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c5d1483b5f99980800000000000000
+      internalID: -8531517867712226300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_152
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 336
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccce6c92024cac1e0800000000000000
+      internalID: -2176711827461313332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_153
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 330
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f14f8de7dec0400800000000000000
+      internalID: 291869204933779289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_154
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 335
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1794ab7bcfb7f1e10800000000000000
+      internalID: 2170589870760282481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_155
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 339
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5148c31d63f5c7950800000000000000
+      internalID: 6448133455530984469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_156
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 339
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0382058d21b3cf60800000000000000
+      internalID: 8053475367731757835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_157
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 309
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e82cc61972ffe390800000000000000
+      internalID: -7786738628812855070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_158
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 341
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bae7ac25bd456450800000000000000
+      internalID: 6081352312367344308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_159
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 337
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8313769c35f2f2a0800000000000000
+      internalID: -6705027254630280308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_160
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 312
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61951b34716f16810800000000000000
+      internalID: 1756955909431580950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_161
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 323
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5fc36db1b9614b0800000000000000
+      internalID: -5470014153534147163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_162
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 299
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc089eec325616e0800000000000000
+      internalID: -1867214573844034317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_163
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 339
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3ba3ea70a6278a80800000000000000
+      internalID: -8464754503921194179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_164
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 328
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2998877e5e51320800000000000000
+      internalID: 2528179548160889513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_165
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 328
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035589271770d3610800000000000000
+      internalID: 1602445226249049392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_166
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 279
+        width: 13
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dac56bd3bd611f0800000000000000
+      internalID: -1074430402982269561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_167
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 319
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddeea62504526b00800000000000000
+      internalID: 820310463235419601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_168
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 321
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2042351e1deabf830800000000000000
+      internalID: 4106067701730059266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_169
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 319
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5501b4825e9a411c0800000000000000
+      internalID: -4533812123166633899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_170
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 327
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4936e2a5cea748140800000000000000
+      internalID: 4721033464934982548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_171
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 309
+        width: 15
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5622b7263076028c0800000000000000
+      internalID: -4026104802634423707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_172
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 302
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e400a3c487b3e6c40800000000000000
+      internalID: 5507404782181679182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_173
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 327
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1671f747275620150800000000000000
+      internalID: 5837339609280747361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_174
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 323
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9a874e13a70e690800000000000000
+      internalID: -7574920218532075021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_175
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 319
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ecbd3509dc948f0800000000000000
+      internalID: -555687059237646700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_176
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 263
+        width: 15
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d94e7b8031ea84d0800000000000000
+      internalID: -3131442992267769392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_177
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 317
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f60e91c298068e10800000000000000
+      internalID: 2199454894423672566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_178
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 323
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c424653e4003c940800000000000000
+      internalID: 5315092321130521793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_179
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 317
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433b7febaa64b39f0800000000000000
+      internalID: -487718435477277900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_180
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 308
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b19fba686abf1ec0800000000000000
+      internalID: -3593949019988061768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_181
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 311
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc983c27597e29e0800000000000000
+      internalID: -1644243398632629068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_182
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 325
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3043b575e1f0be3d0800000000000000
+      internalID: -3176428489190722557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_183
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 258
+        width: 42
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c534df61e2960a6d0800000000000000
+      internalID: -2981267306644159652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_184
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 321
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3d63c8cc108b830800000000000000
+      internalID: 4087018639876084681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_185
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 309
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025ea5eb47ccb6a30800000000000000
+      internalID: 4209683078489761056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_186
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 307
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64d3250cf7e64760800000000000000
+      internalID: 7441890503880332397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_187
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 308
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37ef347eaa2c7a30800000000000000
+      internalID: 4214290280074962747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_188
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 302
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962f10feb01c51e90800000000000000
+      internalID: -7055520984207330711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_189
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 265
+        width: 15
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f87dfb9bdb999a0800000000000000
+      internalID: -6225736404377825471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_190
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 273
+        width: 15
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428002c8997b88490800000000000000
+      internalID: -7743737689154779100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_191
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 256
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62451d4c86f09550800000000000000
+      internalID: 6165698972319302250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_192
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 283
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3617eb8a7be7a7a0800000000000000
+      internalID: -6365860636699191746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_193
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 258
+        width: 27
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95adccd5735fee40800000000000000
+      internalID: 5687856620072969626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_194
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 297
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f231e0bd64db5b2b0800000000000000
+      internalID: -5569337252153257169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_195
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 281
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5878956f05c773890800000000000000
+      internalID: -7478371969053128827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_196
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 287
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e70d2a20630a000800000000000000
+      internalID: 45095381223112345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_197
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 256
+        width: 19
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c509560a0c3608a80800000000000000
+      internalID: -8466657620480651172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_198
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 287
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a664e075d3b1260800000000000000
+      internalID: 7069311484199070349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_199
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2ce2b4ce1e13d40800000000000000
+      internalID: 5562475419769160377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_200
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 289
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0d3f19f89696c60800000000000000
+      internalID: 7811891094000750753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_201
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 276
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372fa2cc0950d3060800000000000000
+      internalID: 6934705120679228019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_202
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 267
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a5afed7990617f0800000000000000
+      internalID: -642315348968056239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_203
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 270
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb29fa933fbaba4f0800000000000000
+      internalID: -816369846304402756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_204
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 277
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89272eb61ccded420800000000000000
+      internalID: 2656803553491972760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_205
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 275
+        width: 12
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb36544fdb33f450800000000000000
+      internalID: 6121302148636883956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_206
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 273
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 177b8924c3a5a55b0800000000000000
+      internalID: -5378887590078793871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_207
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41bf03f6bb6f4a590800000000000000
+      internalID: -7663729380992943340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_208
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 264
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd423c868d0afe00800000000000000
+      internalID: 1079189932237540821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_209
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 256
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fcd966301624820800000000000000
+      internalID: 2900987777214435095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_210
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 260
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0087883cf0f6eef20800000000000000
+      internalID: 3453820077735442432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_211
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 267
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d98bbe36e367800800000000000000
+      internalID: 609743398432709998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_212
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 267
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef6e1dc36433e1e0800000000000000
+      internalID: -2169832992214716433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_213
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 256
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ae28b4e7a4c8790800000000000000
+      internalID: -7526558970949735801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_214
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 260
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34dfedd04ef89fd0800000000000000
+      internalID: -2334836852236757954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_215
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 273
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7628a49bd696cf670800000000000000
+      internalID: 8573843710587601511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_216
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 256
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfec54d6d152cff0800000000000000
+      internalID: -17361465428348992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_217
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 256
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e3d7ff2e3d39ea0800000000000000
+      internalID: -5867112917631156679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_218
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 256
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ed7dc98c9f72310800000000000000
+      internalID: 1380346450832514682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_219
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 260
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d01f7890b5798840800000000000000
+      internalID: 5226838243873329369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_220
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 258
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99af4a13a5bdb0270800000000000000
+      internalID: 8217903125494037145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_221
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 263
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3333ab2c6b1c05df0800000000000000
+      internalID: -193441793281739981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_222
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 258
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc4784d522d179210800000000000000
+      internalID: 1339571447597135051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_223
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 260
+        width: 25
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba32af09250c7b80800000000000000
+      internalID: -8395829931411359050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_224
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 256
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf86a9565c74dbf0800000000000000
+      internalID: -300478564813860923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_225
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 258
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e668f6bf9415b2180800000000000000
+      internalID: -9139121640625437074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_226
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 265
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f5c8ec111ab7f50800000000000000
+      internalID: 6880269953590386545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_227
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 256
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56cfa4a9fa1f3620800000000000000
+      internalID: 2755951156486194778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_228
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 1315
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9303dd35bc3facc0800000000000000
+      internalID: -3697670019923901537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_229
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 127
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626865fcd2b409f50800000000000000
+      internalID: 6886086490373654054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_230
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 101
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708800d38776195e0800000000000000
+      internalID: -1904627401283827705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_231
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 101
+        width: 11
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3481a510b76f0b50800000000000000
+      internalID: 6561577188076913727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_232
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 101
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6195d7820eec600800000000000000
+      internalID: 490575873936267005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_233
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 101
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132a329dcc1b5e820800000000000000
+      internalID: 2946957024558293553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_234
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 101
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: defe9d43f6525c780800000000000000
+      internalID: -8663477148618985491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_235
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 127
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d56176696708ace0800000000000000
+      internalID: -1393855935399500331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_236
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 101
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02c436ecd58ddb970800000000000000
+      internalID: 8772405546593766432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_237
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 127
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8f6e94b5aa46dd0800000000000000
+      internalID: -2493680984597792557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_238
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 129
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074d1301b4f7bc250800000000000000
+      internalID: 5966002091753329776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_239
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 101
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7a2066609de05a0800000000000000
+      internalID: -6553061786273011739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_240
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 125
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1b4ebb27b11f480800000000000000
+      internalID: -8867276011723247124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_241
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 121
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf4b206b232d7560800000000000000
+      internalID: 7313040039123570618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_242
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 101
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae3061736f843730800000000000000
+      internalID: 3977962028141657766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_243
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 143
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c6f101ad3b33b60800000000000000
+      internalID: 7724715535025269817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_244
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 101
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8600149ad4106740800000000000000
+      internalID: 5143133703476610702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_245
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 181
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87256c42fdcb6fc60800000000000000
+      internalID: 7851670666947744376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_246
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 176
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079a1548ac3071d00800000000000000
+      internalID: 943226815295629680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_247
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 163
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39091e3a63032af00800000000000000
+      internalID: 1126515868031881363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_248
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 149
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc0c67af2ea612e0800000000000000
+      internalID: -2155343851954631479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_249
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 138
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd480189e466424c0800000000000000
+      internalID: -4313210055369390884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_250
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 115
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26913ad54426ece80800000000000000
+      internalID: -8156473829353121438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_251
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 101
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d0adca3ec8b11a0800000000000000
+      internalID: -6837716699746529994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_252
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 105
+        width: 6
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0667b5372a193d0800000000000000
+      internalID: -3201599243744288594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_253
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 167
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a2d28368cafbd90800000000000000
+      internalID: -7079750396735051136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_254
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 133
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867b08e66695f9970800000000000000
+      internalID: 8763821696361740136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_255
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 181
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c7d31fbd85a19f0800000000000000
+      internalID: -496987107202597758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_256
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 176
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0be0daba917221d0800000000000000
+      internalID: -3377011861201294577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_257
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 101
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3964fa48c387a40800000000000000
+      internalID: 5366105496585933806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_258
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 159
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaa33b243ccafdf0800000000000000
+      internalID: -145579513500947745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_259
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 141
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d26919863c11f130800000000000000
+      internalID: 3598688597799690967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_260
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 115
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49102e40272b2cd20800000000000000
+      internalID: 3297394079966560660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_261
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 101
+        width: 11
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c70a7f324d8eab0800000000000000
+      internalID: -4978496137114649470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_262
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 146
+        width: 9
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2c6a549a1220220800000000000000
+      internalID: 2450558158144717551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_263
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 180
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915f8b1ed3e302dc0800000000000000
+      internalID: -3665861661178661607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_264
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 101
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da775ac198a877aa0800000000000000
+      internalID: -6163305243537475667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_265
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 157
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a6c0c9df116f230800000000000000
+      internalID: 3672142327109675611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_266
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 131
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2dafa9ca99eeb8b0800000000000000
+      internalID: -5134409674137817809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_267
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be49159f7a9eb4a90800000000000000
+      internalID: -7328507060963666709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_268
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 101
+        width: 39
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6914804ba96acff0800000000000000
+      internalID: -15083464499652241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_269
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 165
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11cdc204a8fa238f0800000000000000
+      internalID: -562193995150861295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_270
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 176
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eea28593e088dce30800000000000000
+      internalID: 4525422795250215662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_271
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe56d8ac2baade80800000000000000
+      internalID: -8153015967101329730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_272
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 156
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2de3486a57886f0800000000000000
+      internalID: -682165985502899458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_273
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 101
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 197352550cd930780800000000000000
+      internalID: -8717951004271364207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_274
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 105
+        width: 33
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8442993cc05767540800000000000000
+      internalID: 5005316733550535752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_275
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 173
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46724d93aedb352a0800000000000000
+      internalID: -6749842602808039580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_276
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 169
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262cb118b3fb49bb0800000000000000
+      internalID: -4930105429773794718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_277
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 105
+        width: 35
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf101d65bee1e43b0800000000000000
+      internalID: -5526445696614333956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_278
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 101
+        width: 34
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146f50ce4db30f0e0800000000000000
+      internalID: -2238223229124217279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_279
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 169
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5f45f7d2b94f0f0800000000000000
+      internalID: -1084070990577338947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_280
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 173
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e49dbcfded49b50800000000000000
+      internalID: 6599144406783708687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_281
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 174
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf294eaea09eaaee0800000000000000
+      internalID: -1248929713542098180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_282
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 105
+        width: 17
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfaba09873bfc2f40800000000000000
+      internalID: 5705211043912530685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_283
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 100
+        width: 34
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d807af19659cdef0800000000000000
+      internalID: -82026414464366384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_284
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 177
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f1028ea397c7ab60800000000000000
+      internalID: 7757388320270844409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_285
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 180
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0717676d18d65a370800000000000000
+      internalID: 8333187089935266160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_286
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 169
+        width: 21
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2302b1ac076baaf50800000000000000
+      internalID: 6893522775187333170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_287
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 177
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094e70bcb89876530800000000000000
+      internalID: 3848195640111129744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_288
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 173
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebcee67fcb9e5d190800000000000000
+      internalID: -7938181770356265794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_289
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 164
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef4d9f055e84f2d0800000000000000
+      internalID: -3245812935441952799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_290
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 105
+        width: 14
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92350fb9d1b8936f0800000000000000
+      internalID: -704378907420241111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_291
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 101
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8d4dd098da86d00800000000000000
+      internalID: 966212924225149095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_292
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 167
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26887b85c84fffaf0800000000000000
+      internalID: -360300561545328542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_293
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 177
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e7daf29b34f3f30800000000000000
+      internalID: 4557435810570141330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_294
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 146
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62afb71f4399b3630800000000000000
+      internalID: 3907885554342820390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_295
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 109
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bd08fb4b8810960800000000000000
+      internalID: 7566479158847527783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_296
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca69c2288146c050800000000000000
+      internalID: 5820411621377927887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_297
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 169
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48246ae2bdaadf930800000000000000
+      internalID: 4178683887626896004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_298
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 177
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 860b95aa32b593660800000000000000
+      internalID: 7366018874281144424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HERO1-IDDLE2_299
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 164
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d32c7eef984488b0800000000000000
+      internalID: -5150912222066891816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      HERO1-IDDLE2_0: -8553060692995027027
+      HERO1-IDDLE2_1: -1715266044689642731
+      HERO1-IDDLE2_10: 3531321997861557653
+      HERO1-IDDLE2_100: 2236006451724871108
+      HERO1-IDDLE2_101: 8101737005367666231
+      HERO1-IDDLE2_102: 21750899468226172
+      HERO1-IDDLE2_103: -5583423072742480316
+      HERO1-IDDLE2_104: 6713019026619946067
+      HERO1-IDDLE2_105: 4518123818540881427
+      HERO1-IDDLE2_106: 322006752104596798
+      HERO1-IDDLE2_107: 5428788788270138449
+      HERO1-IDDLE2_108: -3436062979153714385
+      HERO1-IDDLE2_109: -3827081402086236279
+      HERO1-IDDLE2_11: -1166153064485322978
+      HERO1-IDDLE2_110: -7502842105476026358
+      HERO1-IDDLE2_111: 4746345958678125294
+      HERO1-IDDLE2_112: 2922786885088519589
+      HERO1-IDDLE2_113: -2088815184054032653
+      HERO1-IDDLE2_114: -8970147927693841680
+      HERO1-IDDLE2_115: 3089408747340721482
+      HERO1-IDDLE2_116: -8445047222332795294
+      HERO1-IDDLE2_117: 5668426539053868007
+      HERO1-IDDLE2_118: 6487440193432679977
+      HERO1-IDDLE2_119: -4887027054402974324
+      HERO1-IDDLE2_12: 9180092775556631726
+      HERO1-IDDLE2_120: -2771825770751739823
+      HERO1-IDDLE2_121: -3016362707403385532
+      HERO1-IDDLE2_122: -3672471536704864176
+      HERO1-IDDLE2_123: -2742887843116953065
+      HERO1-IDDLE2_124: -3640376871118047944
+      HERO1-IDDLE2_125: -1406612870646863319
+      HERO1-IDDLE2_126: 5750618820419333632
+      HERO1-IDDLE2_127: 4799115926147417650
+      HERO1-IDDLE2_128: -4984218097899315945
+      HERO1-IDDLE2_129: 5423076987602863635
+      HERO1-IDDLE2_13: 1596539890154982428
+      HERO1-IDDLE2_130: 5964726845075480960
+      HERO1-IDDLE2_131: 3484607369931904874
+      HERO1-IDDLE2_132: 2036988058733869772
+      HERO1-IDDLE2_133: -4794134593372437824
+      HERO1-IDDLE2_134: 246533915961503196
+      HERO1-IDDLE2_135: -2855886749496532133
+      HERO1-IDDLE2_136: -5390214642537188726
+      HERO1-IDDLE2_137: 8373645189542017434
+      HERO1-IDDLE2_138: 6257276552265299043
+      HERO1-IDDLE2_139: 6051444416405734690
+      HERO1-IDDLE2_14: 7867366613960005951
+      HERO1-IDDLE2_140: -130192339329991972
+      HERO1-IDDLE2_141: -3285114316522045360
+      HERO1-IDDLE2_142: 1092340281879472373
+      HERO1-IDDLE2_143: -50591610570830376
+      HERO1-IDDLE2_144: 6495011800526273364
+      HERO1-IDDLE2_145: -466741522854314528
+      HERO1-IDDLE2_146: 8827442959414508984
+      HERO1-IDDLE2_147: -6081613159424368259
+      HERO1-IDDLE2_148: -428122483783028948
+      HERO1-IDDLE2_149: -6547487504871457378
+      HERO1-IDDLE2_15: 6073245784731436055
+      HERO1-IDDLE2_150: 2916839138246994081
+      HERO1-IDDLE2_151: -8531517867712226300
+      HERO1-IDDLE2_152: -2176711827461313332
+      HERO1-IDDLE2_153: 291869204933779289
+      HERO1-IDDLE2_154: 2170589870760282481
+      HERO1-IDDLE2_155: 6448133455530984469
+      HERO1-IDDLE2_156: 8053475367731757835
+      HERO1-IDDLE2_157: -7786738628812855070
+      HERO1-IDDLE2_158: 6081352312367344308
+      HERO1-IDDLE2_159: -6705027254630280308
+      HERO1-IDDLE2_16: -5924266646153723750
+      HERO1-IDDLE2_160: 1756955909431580950
+      HERO1-IDDLE2_161: -5470014153534147163
+      HERO1-IDDLE2_162: -1867214573844034317
+      HERO1-IDDLE2_163: -8464754503921194179
+      HERO1-IDDLE2_164: 2528179548160889513
+      HERO1-IDDLE2_165: 1602445226249049392
+      HERO1-IDDLE2_166: -1074430402982269561
+      HERO1-IDDLE2_167: 820310463235419601
+      HERO1-IDDLE2_168: 4106067701730059266
+      HERO1-IDDLE2_169: -4533812123166633899
+      HERO1-IDDLE2_17: -2201769488365167814
+      HERO1-IDDLE2_170: 4721033464934982548
+      HERO1-IDDLE2_171: -4026104802634423707
+      HERO1-IDDLE2_172: 5507404782181679182
+      HERO1-IDDLE2_173: 5837339609280747361
+      HERO1-IDDLE2_174: -7574920218532075021
+      HERO1-IDDLE2_175: -555687059237646700
+      HERO1-IDDLE2_176: -3131442992267769392
+      HERO1-IDDLE2_177: 2199454894423672566
+      HERO1-IDDLE2_178: 5315092321130521793
+      HERO1-IDDLE2_179: -487718435477277900
+      HERO1-IDDLE2_18: -855769617166635332
+      HERO1-IDDLE2_180: -3593949019988061768
+      HERO1-IDDLE2_181: -1644243398632629068
+      HERO1-IDDLE2_182: -3176428489190722557
+      HERO1-IDDLE2_183: -2981267306644159652
+      HERO1-IDDLE2_184: 4087018639876084681
+      HERO1-IDDLE2_185: 4209683078489761056
+      HERO1-IDDLE2_186: 7441890503880332397
+      HERO1-IDDLE2_187: 4214290280074962747
+      HERO1-IDDLE2_188: -7055520984207330711
+      HERO1-IDDLE2_189: -6225736404377825471
+      HERO1-IDDLE2_19: 2768012989311989980
+      HERO1-IDDLE2_190: -7743737689154779100
+      HERO1-IDDLE2_191: 6165698972319302250
+      HERO1-IDDLE2_192: -6365860636699191746
+      HERO1-IDDLE2_193: 5687856620072969626
+      HERO1-IDDLE2_194: -5569337252153257169
+      HERO1-IDDLE2_195: -7478371969053128827
+      HERO1-IDDLE2_196: 45095381223112345
+      HERO1-IDDLE2_197: -8466657620480651172
+      HERO1-IDDLE2_198: 7069311484199070349
+      HERO1-IDDLE2_199: 5562475419769160377
+      HERO1-IDDLE2_2: 6519396675059142769
+      HERO1-IDDLE2_20: -1741480791438237834
+      HERO1-IDDLE2_200: 7811891094000750753
+      HERO1-IDDLE2_201: 6934705120679228019
+      HERO1-IDDLE2_202: -642315348968056239
+      HERO1-IDDLE2_203: -816369846304402756
+      HERO1-IDDLE2_204: 2656803553491972760
+      HERO1-IDDLE2_205: 6121302148636883956
+      HERO1-IDDLE2_206: -5378887590078793871
+      HERO1-IDDLE2_207: -7663729380992943340
+      HERO1-IDDLE2_208: 1079189932237540821
+      HERO1-IDDLE2_209: 2900987777214435095
+      HERO1-IDDLE2_21: -4041672912599928582
+      HERO1-IDDLE2_210: 3453820077735442432
+      HERO1-IDDLE2_211: 609743398432709998
+      HERO1-IDDLE2_212: -2169832992214716433
+      HERO1-IDDLE2_213: -7526558970949735801
+      HERO1-IDDLE2_214: -2334836852236757954
+      HERO1-IDDLE2_215: 8573843710587601511
+      HERO1-IDDLE2_216: -17361465428348992
+      HERO1-IDDLE2_217: -5867112917631156679
+      HERO1-IDDLE2_218: 1380346450832514682
+      HERO1-IDDLE2_219: 5226838243873329369
+      HERO1-IDDLE2_22: -6109494728906811093
+      HERO1-IDDLE2_220: 8217903125494037145
+      HERO1-IDDLE2_221: -193441793281739981
+      HERO1-IDDLE2_222: 1339571447597135051
+      HERO1-IDDLE2_223: -8395829931411359050
+      HERO1-IDDLE2_224: -300478564813860923
+      HERO1-IDDLE2_225: -9139121640625437074
+      HERO1-IDDLE2_226: 6880269953590386545
+      HERO1-IDDLE2_227: 2755951156486194778
+      HERO1-IDDLE2_228: -3697670019923901537
+      HERO1-IDDLE2_229: 6886086490373654054
+      HERO1-IDDLE2_23: -4469737368503622758
+      HERO1-IDDLE2_230: -1904627401283827705
+      HERO1-IDDLE2_231: 6561577188076913727
+      HERO1-IDDLE2_232: 490575873936267005
+      HERO1-IDDLE2_233: 2946957024558293553
+      HERO1-IDDLE2_234: -8663477148618985491
+      HERO1-IDDLE2_235: -1393855935399500331
+      HERO1-IDDLE2_236: 8772405546593766432
+      HERO1-IDDLE2_237: -2493680984597792557
+      HERO1-IDDLE2_238: 5966002091753329776
+      HERO1-IDDLE2_239: -6553061786273011739
+      HERO1-IDDLE2_24: -4862130902770343758
+      HERO1-IDDLE2_240: -8867276011723247124
+      HERO1-IDDLE2_241: 7313040039123570618
+      HERO1-IDDLE2_242: 3977962028141657766
+      HERO1-IDDLE2_243: 7724715535025269817
+      HERO1-IDDLE2_244: 5143133703476610702
+      HERO1-IDDLE2_245: 7851670666947744376
+      HERO1-IDDLE2_246: 943226815295629680
+      HERO1-IDDLE2_247: 1126515868031881363
+      HERO1-IDDLE2_248: -2155343851954631479
+      HERO1-IDDLE2_249: -4313210055369390884
+      HERO1-IDDLE2_25: 744272311940347800
+      HERO1-IDDLE2_250: -8156473829353121438
+      HERO1-IDDLE2_251: -6837716699746529994
+      HERO1-IDDLE2_252: -3201599243744288594
+      HERO1-IDDLE2_253: -7079750396735051136
+      HERO1-IDDLE2_254: 8763821696361740136
+      HERO1-IDDLE2_255: -496987107202597758
+      HERO1-IDDLE2_256: -3377011861201294577
+      HERO1-IDDLE2_257: 5366105496585933806
+      HERO1-IDDLE2_258: -145579513500947745
+      HERO1-IDDLE2_259: 3598688597799690967
+      HERO1-IDDLE2_26: -2271137437536835603
+      HERO1-IDDLE2_260: 3297394079966560660
+      HERO1-IDDLE2_261: -4978496137114649470
+      HERO1-IDDLE2_262: 2450558158144717551
+      HERO1-IDDLE2_263: -3665861661178661607
+      HERO1-IDDLE2_264: -6163305243537475667
+      HERO1-IDDLE2_265: 3672142327109675611
+      HERO1-IDDLE2_266: -5134409674137817809
+      HERO1-IDDLE2_267: -7328507060963666709
+      HERO1-IDDLE2_268: -15083464499652241
+      HERO1-IDDLE2_269: -562193995150861295
+      HERO1-IDDLE2_27: 4431000713751815011
+      HERO1-IDDLE2_270: 4525422795250215662
+      HERO1-IDDLE2_271: -8153015967101329730
+      HERO1-IDDLE2_272: -682165985502899458
+      HERO1-IDDLE2_273: -8717951004271364207
+      HERO1-IDDLE2_274: 5005316733550535752
+      HERO1-IDDLE2_275: -6749842602808039580
+      HERO1-IDDLE2_276: -4930105429773794718
+      HERO1-IDDLE2_277: -5526445696614333956
+      HERO1-IDDLE2_278: -2238223229124217279
+      HERO1-IDDLE2_279: -1084070990577338947
+      HERO1-IDDLE2_28: 2957216723070107126
+      HERO1-IDDLE2_280: 6599144406783708687
+      HERO1-IDDLE2_281: -1248929713542098180
+      HERO1-IDDLE2_282: 5705211043912530685
+      HERO1-IDDLE2_283: -82026414464366384
+      HERO1-IDDLE2_284: 7757388320270844409
+      HERO1-IDDLE2_285: 8333187089935266160
+      HERO1-IDDLE2_286: 6893522775187333170
+      HERO1-IDDLE2_287: 3848195640111129744
+      HERO1-IDDLE2_288: -7938181770356265794
+      HERO1-IDDLE2_289: -3245812935441952799
+      HERO1-IDDLE2_29: -7491214737309498011
+      HERO1-IDDLE2_290: -704378907420241111
+      HERO1-IDDLE2_291: 966212924225149095
+      HERO1-IDDLE2_292: -360300561545328542
+      HERO1-IDDLE2_293: 4557435810570141330
+      HERO1-IDDLE2_294: 3907885554342820390
+      HERO1-IDDLE2_295: 7566479158847527783
+      HERO1-IDDLE2_296: 5820411621377927887
+      HERO1-IDDLE2_297: 4178683887626896004
+      HERO1-IDDLE2_298: 7366018874281144424
+      HERO1-IDDLE2_299: -5150912222066891816
+      HERO1-IDDLE2_3: 4747995784592563145
+      HERO1-IDDLE2_30: 3457718812553690387
+      HERO1-IDDLE2_31: 3925822035157396153
+      HERO1-IDDLE2_32: 1275639437100284325
+      HERO1-IDDLE2_33: -5355584857638055709
+      HERO1-IDDLE2_34: 7521536095506589818
+      HERO1-IDDLE2_35: 7988641303576410550
+      HERO1-IDDLE2_36: 1723427479754157733
+      HERO1-IDDLE2_37: 1516127820695920263
+      HERO1-IDDLE2_38: 6107173144626355397
+      HERO1-IDDLE2_39: 7841644700901430178
+      HERO1-IDDLE2_4: -8091577045547193882
+      HERO1-IDDLE2_40: 8572405079693737420
+      HERO1-IDDLE2_41: -2333279714789849264
+      HERO1-IDDLE2_42: 5844511391078648133
+      HERO1-IDDLE2_43: -3435229914042402610
+      HERO1-IDDLE2_44: 9004692502696273050
+      HERO1-IDDLE2_45: 3305690737288535612
+      HERO1-IDDLE2_46: 2556020476320090450
+      HERO1-IDDLE2_47: -7349096768702166940
+      HERO1-IDDLE2_48: 1262409898269002846
+      HERO1-IDDLE2_49: -3237721999922527422
+      HERO1-IDDLE2_5: 8391487512448557643
+      HERO1-IDDLE2_50: -2326673202356610052
+      HERO1-IDDLE2_51: -1759959288503164877
+      HERO1-IDDLE2_52: -5209941498982017447
+      HERO1-IDDLE2_53: 3717028253768007113
+      HERO1-IDDLE2_54: 4558868402746141253
+      HERO1-IDDLE2_55: 6784404409634102412
+      HERO1-IDDLE2_56: -2077570782447174014
+      HERO1-IDDLE2_57: 5137232148191360837
+      HERO1-IDDLE2_58: 4858058674644213160
+      HERO1-IDDLE2_59: 8572358167033353563
+      HERO1-IDDLE2_6: -3436265265580328774
+      HERO1-IDDLE2_60: 1537028762350667792
+      HERO1-IDDLE2_61: -1112549081329139277
+      HERO1-IDDLE2_62: 6227558524098183465
+      HERO1-IDDLE2_63: -6116546537488482264
+      HERO1-IDDLE2_64: -258889818953649179
+      HERO1-IDDLE2_65: -4867708021714793162
+      HERO1-IDDLE2_66: 6815653342991158736
+      HERO1-IDDLE2_67: 3197436819646445860
+      HERO1-IDDLE2_68: 4527205133779266358
+      HERO1-IDDLE2_69: -3341709531722735647
+      HERO1-IDDLE2_7: 4156045533167218878
+      HERO1-IDDLE2_70: 2523685903382452746
+      HERO1-IDDLE2_71: 2030148504387756540
+      HERO1-IDDLE2_72: 6576962235138748907
+      HERO1-IDDLE2_73: 1491731848481350346
+      HERO1-IDDLE2_74: 3949062948035272063
+      HERO1-IDDLE2_75: -5899116838256935407
+      HERO1-IDDLE2_76: 4317236176668613728
+      HERO1-IDDLE2_77: -4435681243306354890
+      HERO1-IDDLE2_78: 839929514724201997
+      HERO1-IDDLE2_79: -7329733667788538626
+      HERO1-IDDLE2_8: 4019855732189451250
+      HERO1-IDDLE2_80: -2946290101812961713
+      HERO1-IDDLE2_81: 3957661260326964190
+      HERO1-IDDLE2_82: -5946017238040850727
+      HERO1-IDDLE2_83: 2831874890152386913
+      HERO1-IDDLE2_84: -2554662171944542157
+      HERO1-IDDLE2_85: 8786095951029032641
+      HERO1-IDDLE2_86: 2818784283357781916
+      HERO1-IDDLE2_87: -5160936175826310099
+      HERO1-IDDLE2_88: 1657469721874512634
+      HERO1-IDDLE2_89: -3431732169211591496
+      HERO1-IDDLE2_9: -4997361611722720838
+      HERO1-IDDLE2_90: 7908999116198578020
+      HERO1-IDDLE2_91: 5319871630383352482
+      HERO1-IDDLE2_92: 2289236155375502108
+      HERO1-IDDLE2_93: 6317521331817200046
+      HERO1-IDDLE2_94: 9094323187886483874
+      HERO1-IDDLE2_95: 2240542002892062817
+      HERO1-IDDLE2_96: 3648757197977566088
+      HERO1-IDDLE2_97: -7297480733641892172
+      HERO1-IDDLE2_98: -2846314624824524588
+      HERO1-IDDLE2_99: 4925419643683939074
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: c812122afa98b38409e7f3ff79dcd6f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1796566617980485937
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_0
+  - first:
+      213: -8161665543420515663
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_1
+  - first:
+      213: 4367754312373560337
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_2
+  - first:
+      213: 3059900165326833365
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_3
+  - first:
+      213: -993290522180521109
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_4
+  - first:
+      213: -5458533810109541769
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_5
+  - first:
+      213: 5913071495162791744
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_6
+  - first:
+      213: -4962527370276236406
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_7
+  - first:
+      213: 8473882716257351927
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_8
+  - first:
+      213: 971850512951539062
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_9
+  - first:
+      213: 2093188827672499541
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_10
+  - first:
+      213: -1014057559900439394
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_11
+  - first:
+      213: -6603535127944330141
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_12
+  - first:
+      213: 6542311562765147246
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_13
+  - first:
+      213: 1676341518217972344
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_14
+  - first:
+      213: -980356350428726534
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_15
+  - first:
+      213: 6788596810164433036
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_16
+  - first:
+      213: 3536332164038986082
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_17
+  - first:
+      213: -7433744704278561078
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_18
+  - first:
+      213: 3313529113771912985
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_19
+  - first:
+      213: -8370334446315502720
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_20
+  - first:
+      213: 2541471489924924641
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_21
+  - first:
+      213: -4936044854049152005
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_22
+  - first:
+      213: -8036639952249411492
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_23
+  - first:
+      213: -5596790450371490376
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_24
+  - first:
+      213: 1810370487149296880
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_25
+  - first:
+      213: 6986121287652703910
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_26
+  - first:
+      213: 8148271706309418015
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_27
+  - first:
+      213: -4507963988540917844
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_28
+  - first:
+      213: -6171668571923646910
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_29
+  - first:
+      213: -2173616098634908962
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_30
+  - first:
+      213: -6330093031974778089
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_31
+  - first:
+      213: 5096334051781664910
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_32
+  - first:
+      213: 1456288863659015950
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_33
+  - first:
+      213: -7511081610154330066
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_34
+  - first:
+      213: 8663541853028505793
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_35
+  - first:
+      213: 4617926966712227680
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_36
+  - first:
+      213: -8390522266406763460
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_37
+  - first:
+      213: 7487764703171966917
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_38
+  - first:
+      213: -1575010023834474515
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_39
+  - first:
+      213: 4197002352419090648
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_40
+  - first:
+      213: 8144787645093354663
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_41
+  - first:
+      213: 7313950937650514957
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_42
+  - first:
+      213: -4853140420694898913
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_43
+  - first:
+      213: 2642854659348966544
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_44
+  - first:
+      213: 4482698115006994760
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_45
+  - first:
+      213: -136703816054900632
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_46
+  - first:
+      213: 4110195662465760622
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_47
+  - first:
+      213: -8594156768684969680
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_48
+  - first:
+      213: 2025954084341381134
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_49
+  - first:
+      213: 6208848122948178010
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_50
+  - first:
+      213: 6876239893105717900
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_51
+  - first:
+      213: -5461851876905034520
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_52
+  - first:
+      213: -6624444630058947085
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_53
+  - first:
+      213: 4587204786845095859
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_54
+  - first:
+      213: 774654800832301921
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_55
+  - first:
+      213: -602158083153786469
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_56
+  - first:
+      213: -6700910815006293024
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_57
+  - first:
+      213: 1905253565865832021
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_58
+  - first:
+      213: -1738236054139323376
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_59
+  - first:
+      213: 7104620473870206286
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_60
+  - first:
+      213: -7368767762660633925
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_61
+  - first:
+      213: -48337730302398374
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_62
+  - first:
+      213: 5898884330575508271
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_4
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 867
+        width: 100
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63faa2688f1732f0800000000000000
+      internalID: -993290522180521109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_0
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 858
+        width: 109
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf1ceb3afcf76b48ab1df1f64bc409a
+      internalID: -1796566617980485937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_1
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 871
+        width: 103
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef25cee017f33948b8beec8c725622e
+      internalID: -8161665543420515663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_2
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 874
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865c8a1b4b8cf484bbf340270e106a61
+      internalID: 4367754312373560337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 876
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beda5ef471b6e0540a0c9094a6b3f9d3
+      internalID: 3059900165326833365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_5
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 871
+        width: 103
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 8, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4cd1b38f82e7940bbded238edba1d9
+      internalID: -5458533810109541769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_6
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 873
+        width: 95
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c92d6eff9d97e4cb90ef31bcf4637f
+      internalID: 5913071495162791744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1598b0ea466516b4fa0cf68c880b8881
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_0: -1796566617980485937
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_1: -8161665543420515663
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_10: 2093188827672499541
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_11: -1014057559900439394
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_12: -6603535127944330141
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_13: 6542311562765147246
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_14: 1676341518217972344
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_15: -980356350428726534
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_16: 6788596810164433036
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_17: 3536332164038986082
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_18: -7433744704278561078
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_19: 3313529113771912985
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_2: 4367754312373560337
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_20: -8370334446315502720
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_21: 2541471489924924641
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_22: -4936044854049152005
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_23: -8036639952249411492
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_24: -5596790450371490376
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_25: 1810370487149296880
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_26: 6986121287652703910
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_27: 8148271706309418015
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_28: -4507963988540917844
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_29: -6171668571923646910
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_3: 3059900165326833365
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_30: -2173616098634908962
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_31: -6330093031974778089
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_32: 5096334051781664910
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_33: 1456288863659015950
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_34: -7511081610154330066
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_35: 8663541853028505793
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_36: 4617926966712227680
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_37: -8390522266406763460
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_38: 7487764703171966917
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_39: -1575010023834474515
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_4: -993290522180521109
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_40: 4197002352419090648
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_41: 8144787645093354663
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_42: 7313950937650514957
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_43: -4853140420694898913
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_44: 2642854659348966544
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_45: 4482698115006994760
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_46: -136703816054900632
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_47: 4110195662465760622
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_48: -8594156768684969680
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_49: 2025954084341381134
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_5: -5458533810109541769
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_50: 6208848122948178010
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_51: 6876239893105717900
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_52: -5461851876905034520
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_53: -6624444630058947085
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_54: 4587204786845095859
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_55: 774654800832301921
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_56: -602158083153786469
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_57: -6700910815006293024
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_58: 1905253565865832021
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_59: -1738236054139323376
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_6: 5913071495162791744
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_60: 7104620473870206286
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_61: -7368767762660633925
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_62: -48337730302398374
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_63: 5898884330575508271
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_64: 1308210521
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_7: -4962527370276236406
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_8: 8473882716257351927
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c97_9: 971850512951539062
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

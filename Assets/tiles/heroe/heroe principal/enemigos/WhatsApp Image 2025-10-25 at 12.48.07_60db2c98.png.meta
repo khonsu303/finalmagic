@@ -1,0 +1,1266 @@
+fileFormatVersion: 2
+guid: c7cb55de3120fbf4390a4fe1c26b0e57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5851972783045704773
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_0
+  - first:
+      213: 2209126666228588651
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_1
+  - first:
+      213: 6025263243971533290
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_2
+  - first:
+      213: 870350195987053158
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_3
+  - first:
+      213: 5647694666490452015
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_4
+  - first:
+      213: -9020045555539875890
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_5
+  - first:
+      213: 7989023145608121694
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_6
+  - first:
+      213: -5976989487108842806
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_7
+  - first:
+      213: -1151100905939188050
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_8
+  - first:
+      213: 2545309839992176846
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_9
+  - first:
+      213: 7056190933773394353
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_10
+  - first:
+      213: -8883329591541347424
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_11
+  - first:
+      213: 566720435991708128
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_12
+  - first:
+      213: -6941649641396862772
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_13
+  - first:
+      213: -2336903012003109940
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_14
+  - first:
+      213: 4266661008680933985
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_15
+  - first:
+      213: 3493001513859280489
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_16
+  - first:
+      213: 2389953779500932881
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_17
+  - first:
+      213: -5320721006108450931
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_18
+  - first:
+      213: -6515482863895150089
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_19
+  - first:
+      213: -8319656494686162575
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_20
+  - first:
+      213: -1960017682656343253
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_21
+  - first:
+      213: -5255768780560508770
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_22
+  - first:
+      213: 2515660091092951386
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_23
+  - first:
+      213: 217248800207519634
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_24
+  - first:
+      213: 5713376763619716667
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_25
+  - first:
+      213: -566419119209000445
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_26
+  - first:
+      213: -5475453981300084039
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_27
+  - first:
+      213: -3444926782098478287
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_28
+  - first:
+      213: 5869301540080266473
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_29
+  - first:
+      213: -70503144605316264
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_30
+  - first:
+      213: -4634414867122587488
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_31
+  - first:
+      213: 804775167623102725
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_32
+  - first:
+      213: -5755181710398481000
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_33
+  - first:
+      213: -5242531506989137707
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_34
+  - first:
+      213: 6646508273577441575
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_35
+  - first:
+      213: -2160746669442957656
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_36
+  - first:
+      213: -3067734634118405680
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_37
+  - first:
+      213: 5101568502312471392
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_38
+  - first:
+      213: 8386590656905839841
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_39
+  - first:
+      213: -7583081414115398368
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_40
+  - first:
+      213: -830297924898094482
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_41
+  - first:
+      213: -3926858216535462195
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_42
+  - first:
+      213: -7600755515231672490
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_43
+  - first:
+      213: -6517023856647570126
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_44
+  - first:
+      213: 4966833811167729903
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_45
+  - first:
+      213: 2629087592014196268
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_46
+  - first:
+      213: -300211479247469869
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_47
+  - first:
+      213: -7599722763368719731
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_48
+  - first:
+      213: -837669629249646394
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_49
+  - first:
+      213: 3674102132208101107
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_50
+  - first:
+      213: -3148475330220319709
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_51
+  - first:
+      213: -2438002719854273225
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_52
+  - first:
+      213: 8964874560563143896
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_53
+  - first:
+      213: 5151686436678263264
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_54
+  - first:
+      213: -5230987690572411045
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_55
+  - first:
+      213: -3162152709255283339
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_56
+  - first:
+      213: -5218419576696358445
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_57
+  - first:
+      213: 5682869590470198063
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_58
+  - first:
+      213: -5705925630317300340
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_59
+  - first:
+      213: 9094887670093028193
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_60
+  - first:
+      213: 4834466607307811685
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_61
+  - first:
+      213: 7293416935851677031
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_62
+  - first:
+      213: -1315626869582061605
+    second: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 688
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab46796dc218b480800000000000000
+      internalID: -8883329591541347424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_12
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 688
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e18d32eb356dd700800000000000000
+      internalID: 566720435991708128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_13
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 688
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc08259fd6e4aaf90800000000000000
+      internalID: -6941649641396862772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_14
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 688
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3a30f8717a19fd0800000000000000
+      internalID: -2336903012003109940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_22
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 482
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e985a1de322cf07b0800000000000000
+      internalID: -5255768780560508770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_23
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 482
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51e839368b69e220800000000000000
+      internalID: 2515660091092951386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 482
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29fbf3cf1a2d30300800000000000000
+      internalID: 217248800207519634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 481
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3e268f45edf94f40800000000000000
+      internalID: 5713376763619716667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_26
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 481
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302de85efcca328f0800000000000000
+      internalID: -566419119209000445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_27
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 491
+        width: 117
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b23c9c3d974304b0800000000000000
+      internalID: -5475453981300084039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_28
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 481
+        width: 112
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b6acbf7592130d0800000000000000
+      internalID: -3444926782098478287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_29
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 481
+        width: 94
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec232067a2f37150800000000000000
+      internalID: 5869301540080266473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_30
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 481
+        width: 97
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b804673c5850ff0800000000000000
+      internalID: -70503144605316264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_31
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 481
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a87e578b304fafb0800000000000000
+      internalID: -4634414867122587488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_32
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 481
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5010b3640c22b2b00800000000000000
+      internalID: 804775167623102725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_33
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 346
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89d9fd50abc7120b0800000000000000
+      internalID: -5755181710398481000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_34
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 346
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d08e1ade59ce37b0800000000000000
+      internalID: -5242531506989137707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_35
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 346
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72937436f042d3c50800000000000000
+      internalID: 6646508273577441575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_36
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 350
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae7e3e2a5c7302e0800000000000000
+      internalID: -2160746669442957656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_37
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 292
+        width: 71
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1a5349a973d65d0800000000000000
+      internalID: -3067734634118405680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_38
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 292
+        width: 77
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b08a906896cc640800000000000000
+      internalID: 5101568502312471392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_39
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 289
+        width: 83
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e48b75b4c7236470800000000000000
+      internalID: 8386590656905839841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_40
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 291
+        width: 107
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02de8c871ab73c690800000000000000
+      internalID: -7583081414115398368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_41
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 292
+        width: 148
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6284b8bf603a74f0800000000000000
+      internalID: -830297924898094482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_42
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 291
+        width: 107
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce6418e14ff089c0800000000000000
+      internalID: -3926858216535462195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_43
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 291
+        width: 74
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65766022121b48690800000000000000
+      internalID: -7600755515231672490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_44
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 292
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d76cfb451ee85a0800000000000000
+      internalID: -6517023856647570126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 292
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe85d0d290dbde440800000000000000
+      internalID: 4966833811167729903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_46
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 292
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ea4654c356c7420800000000000000
+      internalID: 2629087592014196268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_47
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 292
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2c5fd004f65dbf0800000000000000
+      internalID: -300211479247469869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_48
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 293
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8a15f9696c588690800000000000000
+      internalID: -7599722763368719731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_49
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 292
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0117d09efff54f0800000000000000
+      internalID: -837669629249646394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_50
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 333
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6e4ca4c680df230800000000000000
+      internalID: 3674102132208101107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_51
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 105
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c13265e5e5e44d0800000000000000
+      internalID: -3148475330220319709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_52
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 105
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73d56a181797a2ed0800000000000000
+      internalID: -2438002719854273225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_53
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 105
+        width: 20
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d46d463ae1a96c70800000000000000
+      internalID: 8964874560563143896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_54
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 105
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e1e764f4877e7740800000000000000
+      internalID: 5151686436678263264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_55
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 105
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f8dfe096cc767b0800000000000000
+      internalID: -5230987690572411045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_56
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 105
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57dbc4f5dd6cd14d0800000000000000
+      internalID: -3162152709255283339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_57
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 105
+        width: 12
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9b11a1b037497b0800000000000000
+      internalID: -5218419576696358445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f880f77929837254aa741511fb557f8a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_0: 5851972783045704773
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_1: 2209126666228588651
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_10: 7056190933773394353
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_11: -8883329591541347424
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_12: 566720435991708128
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_13: -6941649641396862772
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_14: -2336903012003109940
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_15: 4266661008680933985
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_16: 3493001513859280489
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_17: 2389953779500932881
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_18: -5320721006108450931
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_19: -6515482863895150089
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_2: 6025263243971533290
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_20: -8319656494686162575
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_21: -1960017682656343253
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_22: -5255768780560508770
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_23: 2515660091092951386
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_24: 217248800207519634
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_25: 5713376763619716667
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_26: -566419119209000445
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_27: -5475453981300084039
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_28: -3444926782098478287
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_29: 5869301540080266473
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_3: 870350195987053158
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_30: -70503144605316264
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_31: -4634414867122587488
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_32: 804775167623102725
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_33: -5755181710398481000
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_34: -5242531506989137707
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_35: 6646508273577441575
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_36: -2160746669442957656
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_37: -3067734634118405680
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_38: 5101568502312471392
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_39: 8386590656905839841
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_4: 5647694666490452015
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_40: -7583081414115398368
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_41: -830297924898094482
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_42: -3926858216535462195
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_43: -7600755515231672490
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_44: -6517023856647570126
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_45: 4966833811167729903
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_46: 2629087592014196268
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_47: -300211479247469869
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_48: -7599722763368719731
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_49: -837669629249646394
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_5: -9020045555539875890
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_50: 3674102132208101107
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_51: -3148475330220319709
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_52: -2438002719854273225
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_53: 8964874560563143896
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_54: 5151686436678263264
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_55: -5230987690572411045
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_56: -3162152709255283339
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_57: -5218419576696358445
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_58: 5682869590470198063
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_59: -5705925630317300340
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_6: 7989023145608121694
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_60: 9094887670093028193
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_61: 4834466607307811685
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_62: 7293416935851677031
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_63: -1315626869582061605
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_7: -5976989487108842806
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_8: -1151100905939188050
+      WhatsApp Image 2025-10-25 at 12.48.07_60db2c98_9: 2545309839992176846
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

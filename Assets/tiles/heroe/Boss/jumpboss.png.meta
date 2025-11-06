@@ -1,0 +1,1758 @@
+fileFormatVersion: 2
+guid: 9cdf154ec798f1c42851f734c56a43ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 134117073560918345
+    second: jumpboss_0
+  - first:
+      213: -6166783039170977467
+    second: jumpboss_1
+  - first:
+      213: -8318821241592512039
+    second: jumpboss_2
+  - first:
+      213: -2458538684991477011
+    second: jumpboss_3
+  - first:
+      213: -6334322772706185594
+    second: jumpboss_4
+  - first:
+      213: 7995414402307509586
+    second: jumpboss_5
+  - first:
+      213: 581564689649975125
+    second: jumpboss_6
+  - first:
+      213: 6001844923252001052
+    second: jumpboss_7
+  - first:
+      213: -1036699058850190590
+    second: jumpboss_8
+  - first:
+      213: 736173324252404570
+    second: jumpboss_9
+  - first:
+      213: 6139498989267951012
+    second: jumpboss_10
+  - first:
+      213: -7119915920792024362
+    second: jumpboss_11
+  - first:
+      213: 4715125735898606635
+    second: jumpboss_12
+  - first:
+      213: 9063829245427917939
+    second: jumpboss_13
+  - first:
+      213: 4361225625521286498
+    second: jumpboss_14
+  - first:
+      213: -5423280697184249049
+    second: jumpboss_15
+  - first:
+      213: -8246518152571805840
+    second: jumpboss_16
+  - first:
+      213: -7129508513485429484
+    second: jumpboss_17
+  - first:
+      213: 3297779838732738805
+    second: jumpboss_18
+  - first:
+      213: 7289617222247651085
+    second: jumpboss_19
+  - first:
+      213: 7268349361709794462
+    second: jumpboss_20
+  - first:
+      213: 6392756619531435992
+    second: jumpboss_21
+  - first:
+      213: 4727847076869627162
+    second: jumpboss_22
+  - first:
+      213: -1773475469277351946
+    second: jumpboss_23
+  - first:
+      213: -4457183706380066642
+    second: jumpboss_24
+  - first:
+      213: -3482811032251952283
+    second: jumpboss_25
+  - first:
+      213: -5454892201266394601
+    second: jumpboss_26
+  - first:
+      213: -5510509518431012923
+    second: jumpboss_27
+  - first:
+      213: -1134602635812558770
+    second: jumpboss_28
+  - first:
+      213: -567810123542200227
+    second: jumpboss_29
+  - first:
+      213: 5152853422523623169
+    second: jumpboss_30
+  - first:
+      213: 2883811467860422607
+    second: jumpboss_31
+  - first:
+      213: -541808352746886222
+    second: jumpboss_32
+  - first:
+      213: -963900284924935552
+    second: jumpboss_33
+  - first:
+      213: 8294940042532962331
+    second: jumpboss_34
+  - first:
+      213: -4806027827949144608
+    second: jumpboss_35
+  - first:
+      213: 7026696916934420136
+    second: jumpboss_36
+  - first:
+      213: 5628650423335914428
+    second: jumpboss_37
+  - first:
+      213: 7234985324773755618
+    second: jumpboss_38
+  - first:
+      213: 5440450024728523191
+    second: jumpboss_39
+  - first:
+      213: 4995862841198106185
+    second: jumpboss_40
+  - first:
+      213: 830437537075904788
+    second: jumpboss_41
+  - first:
+      213: 5148088225512225297
+    second: jumpboss_42
+  - first:
+      213: -1327263936685755531
+    second: jumpboss_43
+  - first:
+      213: -5542144233949540928
+    second: jumpboss_44
+  - first:
+      213: 297872232269164815
+    second: jumpboss_45
+  - first:
+      213: 732063836326334901
+    second: jumpboss_46
+  - first:
+      213: -6311143574547940722
+    second: jumpboss_47
+  - first:
+      213: 8622056067863414431
+    second: jumpboss_48
+  - first:
+      213: 1884023230604983701
+    second: jumpboss_49
+  - first:
+      213: 7985105960632426169
+    second: jumpboss_50
+  - first:
+      213: -1312833134168199427
+    second: jumpboss_51
+  - first:
+      213: 7518139796538708656
+    second: jumpboss_52
+  - first:
+      213: -8565200421370997826
+    second: jumpboss_53
+  - first:
+      213: -6302014840082330711
+    second: jumpboss_54
+  - first:
+      213: -6627528164583746161
+    second: jumpboss_55
+  - first:
+      213: -3435880158615327462
+    second: jumpboss_56
+  - first:
+      213: 3216276075381877445
+    second: jumpboss_57
+  - first:
+      213: 3078730881360638339
+    second: jumpboss_58
+  - first:
+      213: -7899832776861415094
+    second: jumpboss_59
+  - first:
+      213: 5319714867622449063
+    second: jumpboss_60
+  - first:
+      213: -6687723336174167851
+    second: jumpboss_61
+  - first:
+      213: 4353054970142539613
+    second: jumpboss_62
+  - first:
+      213: 5653207521541744822
+    second: jumpboss_63
+  - first:
+      213: 7357589486050703151
+    second: jumpboss_64
+  - first:
+      213: -6700965567426965680
+    second: jumpboss_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jumpboss_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 683
+        width: 7
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949d9ef84ca7cd100800000000000000
+      internalID: 134117073560918345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 683
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5416f47bf7f2b6aa0800000000000000
+      internalID: -6166783039170977467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 682
+        width: 15
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d187e0e72c9d8c80800000000000000
+      internalID: -8318821241592512039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_3
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 683
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deae686871481edd0800000000000000
+      internalID: -2458538684991477011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 682
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e2e28bff6f718a0800000000000000
+      internalID: -6334322772706185594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_5
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 683
+        width: 75
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25dc491990b65fe60800000000000000
+      internalID: 7995414402307509586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_7
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 682
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19ca679826da4350800000000000000
+      internalID: 6001844923252001052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 682
+        width: 69
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bde2decb9673a00800000000000000
+      internalID: 736173324252404570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_11
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 682
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da0b86613af03d90800000000000000
+      internalID: -7119915920792024362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_13
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 681
+        width: 67
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374278e2da039cd70800000000000000
+      internalID: 9063829245427917939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_14
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 527
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26de682899f268c30800000000000000
+      internalID: 4361225625521286498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_15
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 527
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b991f80f2acb4b0800000000000000
+      internalID: -5423280697184249049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 527
+        width: 14
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07f9522ae6b7e8d80800000000000000
+      internalID: -8246518152571805840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_17
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 527
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415e39ed7c5ee0d90800000000000000
+      internalID: -7129508513485429484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_18
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 526
+        width: 74
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f02c1b7a4114cd20800000000000000
+      internalID: 3297779838732738805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_19
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 526
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0714a8dd3ce92560800000000000000
+      internalID: 7289617222247651085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_20
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 526
+        width: 76
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9446203c3d5ed460800000000000000
+      internalID: 7268349361709794462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_21
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 526
+        width: 77
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfb2b27642a7b850800000000000000
+      internalID: 6392756619531435992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_22
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 526
+        width: 75
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dde210edfac9140800000000000000
+      internalID: 4727847076869627162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_23
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 525
+        width: 75
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffaadbf4795367e0800000000000000
+      internalID: -1773475469277351946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_24
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 524
+        width: 78
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0ae82c807e422c0800000000000000
+      internalID: -4457183706380066642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_25
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 524
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5639fc2a1d19aafc0800000000000000
+      internalID: -3482811032251952283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_26
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 362
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ac777b1745c44b0800000000000000
+      internalID: -5454892201266394601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_27
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 362
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7b286f9ccb683b0800000000000000
+      internalID: -5510509518431012923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_28
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 362
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48ab230ae41140f0800000000000000
+      internalID: -1134602635812558770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_29
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 361
+        width: 101
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50856673bbbe18f0800000000000000
+      internalID: -567810123542200227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_30
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 361
+        width: 97
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1072d2503ec928740800000000000000
+      internalID: 5152853422523623169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_31
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 361
+        width: 100
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcfa40d304b550820800000000000000
+      internalID: 2883811467860422607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_32
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 361
+        width: 103
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bbae2e7c2c1b78f0800000000000000
+      internalID: -541808352746886222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_33
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 361
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 082c62e3cc98f92f0800000000000000
+      internalID: -963900284924935552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_34
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 361
+        width: 100
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10475c250c8d1370800000000000000
+      internalID: 8294940042532962331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_35
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 361
+        width: 102
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5f276672f8d4db0800000000000000
+      internalID: -4806027827949144608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_36
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 361
+        width: 99
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6653eed97d38160800000000000000
+      internalID: 7026696916934420136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 253
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb0ac7fcbbfc1e40800000000000000
+      internalID: 5628650423335914428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 253
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eacd4ef1d4d76460800000000000000
+      internalID: 7234985324773755618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_39
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 253
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b17536097c508b40800000000000000
+      internalID: 5440450024728523191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_40
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 257
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946df2ce8ced45540800000000000000
+      internalID: 4995862841198106185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 209
+        width: 101
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4114f854a8e468b00800000000000000
+      internalID: 830437537075904788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_42
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 209
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11af60227fea17740800000000000000
+      internalID: 5148088225512225297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_43
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 209
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 573b8a25b7c949de0800000000000000
+      internalID: -1327263936685755531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_44
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 209
+        width: 99
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd4579ce295613b0800000000000000
+      internalID: -5542144233949540928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_45
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 209
+        width: 104
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f013bd09731422400800000000000000
+      internalID: 297872232269164815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_46
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 209
+        width: 138
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b114253e20d82a00800000000000000
+      internalID: 732063836326334901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_47
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 209
+        width: 142
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8ab4985b505a68a0800000000000000
+      internalID: -6311143574547940722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 210
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f960086ef42b7a770800000000000000
+      internalID: 8622056067863414431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_49
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 210
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d3bc07525652a10800000000000000
+      internalID: 1884023230604983701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 210
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be9955709bc0de60800000000000000
+      internalID: 7985105960632426169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_51
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 209
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfeaa8c5831e7cde0800000000000000
+      internalID: -1312833134168199427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 210
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b2da68ef4cc55860800000000000000
+      internalID: 7518139796538708656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_53
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 210
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3d72ed89b422980800000000000000
+      internalID: -8565200421370997826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_54
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 55
+        width: 14
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab07a774eeba88a0800000000000000
+      internalID: -6302014840082330711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_55
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 59
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85d61b9f3a4604a0800000000000000
+      internalID: -6627528164583746161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 59
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1dabe6233d4150d0800000000000000
+      internalID: -3435880158615327462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_57
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 59
+        width: 21
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca69bccc0282ac20800000000000000
+      internalID: 3216276075381877445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_58
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 59
+        width: 75
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 381b68ebc69d9ba20800000000000000
+      internalID: 3078730881360638339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_59
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 59
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49003ec1f72e5290800000000000000
+      internalID: -7899832776861415094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_60
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 60
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af000fac7c63d940800000000000000
+      internalID: 5319714867622449063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_61
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 67
+        width: 75
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d89f3f0f0f6033a0800000000000000
+      internalID: -6687723336174167851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_62
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 77
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f381f8e68296c30800000000000000
+      internalID: 4353054970142539613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_63
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 77
+        width: 79
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8ef03f94a347e40800000000000000
+      internalID: 5653207521541744822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_64
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 59
+        width: 86
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f277337c7a86b1660800000000000000
+      internalID: 7357589486050703151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpboss_65
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 59
+        width: 109
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f4465d1536103a0800000000000000
+      internalID: -6700965567426965680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d77180a63a3c52a4aa3363cc3a233cb4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jumpboss_0: 134117073560918345
+      jumpboss_1: -6166783039170977467
+      jumpboss_10: 6139498989267951012
+      jumpboss_11: -7119915920792024362
+      jumpboss_12: 4715125735898606635
+      jumpboss_13: 9063829245427917939
+      jumpboss_14: 4361225625521286498
+      jumpboss_15: -5423280697184249049
+      jumpboss_16: -8246518152571805840
+      jumpboss_17: -7129508513485429484
+      jumpboss_18: 3297779838732738805
+      jumpboss_19: 7289617222247651085
+      jumpboss_2: -8318821241592512039
+      jumpboss_20: 7268349361709794462
+      jumpboss_21: 6392756619531435992
+      jumpboss_22: 4727847076869627162
+      jumpboss_23: -1773475469277351946
+      jumpboss_24: -4457183706380066642
+      jumpboss_25: -3482811032251952283
+      jumpboss_26: -5454892201266394601
+      jumpboss_27: -5510509518431012923
+      jumpboss_28: -1134602635812558770
+      jumpboss_29: -567810123542200227
+      jumpboss_3: -2458538684991477011
+      jumpboss_30: 5152853422523623169
+      jumpboss_31: 2883811467860422607
+      jumpboss_32: -541808352746886222
+      jumpboss_33: -963900284924935552
+      jumpboss_34: 8294940042532962331
+      jumpboss_35: -4806027827949144608
+      jumpboss_36: 7026696916934420136
+      jumpboss_37: 5628650423335914428
+      jumpboss_38: 7234985324773755618
+      jumpboss_39: 5440450024728523191
+      jumpboss_4: -6334322772706185594
+      jumpboss_40: 4995862841198106185
+      jumpboss_41: 830437537075904788
+      jumpboss_42: 5148088225512225297
+      jumpboss_43: -1327263936685755531
+      jumpboss_44: -5542144233949540928
+      jumpboss_45: 297872232269164815
+      jumpboss_46: 732063836326334901
+      jumpboss_47: -6311143574547940722
+      jumpboss_48: 8622056067863414431
+      jumpboss_49: 1884023230604983701
+      jumpboss_5: 7995414402307509586
+      jumpboss_50: 7985105960632426169
+      jumpboss_51: -1312833134168199427
+      jumpboss_52: 7518139796538708656
+      jumpboss_53: -8565200421370997826
+      jumpboss_54: -6302014840082330711
+      jumpboss_55: -6627528164583746161
+      jumpboss_56: -3435880158615327462
+      jumpboss_57: 3216276075381877445
+      jumpboss_58: 3078730881360638339
+      jumpboss_59: -7899832776861415094
+      jumpboss_6: 581564689649975125
+      jumpboss_60: 5319714867622449063
+      jumpboss_61: -6687723336174167851
+      jumpboss_62: 4353054970142539613
+      jumpboss_63: 5653207521541744822
+      jumpboss_64: 7357589486050703151
+      jumpboss_65: -6700965567426965680
+      jumpboss_7: 6001844923252001052
+      jumpboss_8: -1036699058850190590
+      jumpboss_9: 736173324252404570
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
