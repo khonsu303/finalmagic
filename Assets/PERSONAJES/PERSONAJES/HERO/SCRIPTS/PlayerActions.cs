@@ -16,14 +16,14 @@ public class PlayerActions : MonoBehaviour
     public PlayerHealthUI vidaImagenesUI;
 
     [Header("Temporizador de escena")]
-    public float tiempoLimite = 60f; // ⏳ Tiempo total de la escena
+    public float tiempoLimite = 60f;
     private float tiempoRestante;
-    public TextMeshProUGUI tiempoTMP; // Mostrar tiempo restante en pantalla
+    public TextMeshProUGUI tiempoTMP;
 
     [Header("Game Over")]
-    public TextMeshProUGUI gameOverText; // Texto de "Moreliste"
+    public TextMeshProUGUI gameOverText;
     public float gameOverDisplayTime = 3f;
-    public string sceneOnDeath; // Escena al morir
+    public string sceneOnDeath;
 
     [Header("Ataques")]
     public Transform attackPoint;
@@ -53,6 +53,13 @@ public class PlayerActions : MonoBehaviour
     private Animator anim;
     private Rigidbody2D rb;
 
+    [Header("Audio")]
+    public AudioSource audioSource;
+    public AudioClip habilidadQSound;
+    public AudioClip habilidadESound;
+    public AudioClip habilidadCSound;
+    public AudioClip muerteSound;
+
     void Start()
     {
         currentHealth = maxHealth;
@@ -73,7 +80,7 @@ public class PlayerActions : MonoBehaviour
             vidaImagenesUI.UpdateHealthUI(1f);
 
         if (gameOverText != null)
-            gameOverText.gameObject.SetActive(false); // Ocultar mensaje de muerte
+            gameOverText.gameObject.SetActive(false);
 
         if (tiempoTMP != null)
             tiempoTMP.text = FormatearTiempo(tiempoRestante);
@@ -100,14 +107,10 @@ public class PlayerActions : MonoBehaviour
             if (tiempoTMP != null)
                 tiempoTMP.text = FormatearTiempo(Mathf.Max(0, tiempoRestante));
         }
-        else
+        else if (!isDead)
         {
-            // Tiempo agotado -> muerte automática
-            if (!isDead)
-            {
-                Debug.Log("⏳ Tiempo agotado: el jugador ha muerto");
-                Die();
-            }
+            Debug.Log("⏳ Tiempo agotado: el jugador ha muerto");
+            Die();
         }
     }
 
@@ -124,18 +127,21 @@ public class PlayerActions : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Q) && Time.time >= nextQ)
         {
             ShootProyectil(proyectilQ);
+            PlaySound(habilidadQSound);
             nextQ = Time.time + proyectilQ.cooldown;
         }
 
         if (Input.GetKeyDown(KeyCode.E) && Time.time >= nextE)
         {
             ShootProyectil(proyectilE);
+            PlaySound(habilidadESound);
             nextE = Time.time + proyectilE.cooldown;
         }
 
         if (Input.GetMouseButtonDown(1) && Time.time >= nextC)
         {
             ShootProyectil(proyectilC);
+            PlaySound(habilidadCSound);
             nextC = Time.time + proyectilC.cooldown;
         }
     }
@@ -199,6 +205,9 @@ public class PlayerActions : MonoBehaviour
             rb.simulated = false;
         }
 
+        // 🔊 Sonido de muerte
+        PlaySound(muerteSound);
+
         if (gameOverText != null)
         {
             gameOverText.gameObject.SetActive(true);
@@ -218,7 +227,7 @@ public class PlayerActions : MonoBehaviour
             yield return new WaitForSeconds(state.length);
         }
 
-        // Esperar el tiempo del mensaje
+        // Esperar tiempo del mensaje
         yield return new WaitForSeconds(gameOverDisplayTime);
 
         // Cambiar escena
@@ -236,4 +245,13 @@ public class PlayerActions : MonoBehaviour
     }
 
     public int GetCurrentHealth() => currentHealth;
+
+    // ---------------- AUDIO ----------------
+    private void PlaySound(AudioClip clip)
+    {
+        if (audioSource != null && clip != null)
+        {
+            audioSource.PlayOneShot(clip);
+        }
+    }
 }

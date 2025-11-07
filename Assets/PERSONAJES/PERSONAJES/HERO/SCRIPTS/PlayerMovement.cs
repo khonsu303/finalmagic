@@ -18,6 +18,11 @@ public class PlayerMovement : MonoBehaviour
     private float idleTimer;
     private bool isIdleRoutineActive = false;
 
+    [Header("Audio")]
+    public AudioSource audioSource;
+    public AudioClip walkClip;
+    public AudioClip jumpClip;
+
     private Rigidbody2D rb;
     private float moveHorizontal;
     private bool isGrounded;
@@ -35,7 +40,6 @@ public class PlayerMovement : MonoBehaviour
         HandleInput();
         CheckGround();
         HandleJump();
-
         HandleIdleRoutine();
     }
 
@@ -66,28 +70,55 @@ public class PlayerMovement : MonoBehaviour
         {
             anim.SetFloat("Speed", Mathf.Abs(rb.linearVelocity.x));
         }
+
+        // 🔊 Sonido de pasos
+        if (isGrounded && Mathf.Abs(moveHorizontal) > 0.1f)
+        {
+            if (audioSource != null && walkClip != null)
+            {
+                if (!audioSource.isPlaying)
+                {
+                    audioSource.clip = walkClip;
+                    audioSource.loop = true;
+                    audioSource.Play();
+                }
+            }
+        }
+        else
+        {
+            if (audioSource != null && audioSource.isPlaying && audioSource.clip == walkClip)
+            {
+                audioSource.Stop();
+            }
+        }
     }
 
-  private void HandleJump()
-{
-    if (isGrounded && (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.Space) || Input.GetButtonDown("Jump")))
+    private void HandleJump()
     {
-        rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-
-        if (anim != null)
+        if (isGrounded && (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.Space) || Input.GetButtonDown("Jump")))
         {
-            anim.SetBool("IsJumping", true);
+            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+
+            if (anim != null)
+            {
+                anim.SetBool("IsJumping", true);
+            }
+
+            // 🔊 Sonido de salto
+            if (audioSource != null && jumpClip != null)
+            {
+                audioSource.PlayOneShot(jumpClip);
+            }
+
+            ResetIdleTimer();
         }
 
-        ResetIdleTimer();
+        // Volver a Idle/Run al caer
+        if (anim != null && isGrounded)
+        {
+            anim.SetBool("IsJumping", false);
+        }
     }
-
-    // Volver a Idle/Run al caer
-    if (anim != null && isGrounded)
-    {
-        anim.SetBool("IsJumping", false);
-    }
-}
 
     private void HandleFastFall()
     {
